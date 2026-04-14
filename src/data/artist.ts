@@ -83,7 +83,7 @@ Iryna arbeitet mit Ölmalerei auf Leinwand und Karton, Acryl und Gouache. Ihre H
       },
     },
   ],
-  email: 'iryna.barabash@example.com',
+  email: 'studio@ibarabash.art',
   instagram: 'https://www.instagram.com/i.barabash.art/',
   singulart: 'https://www.singulart.com/en/artist/iryna-barabash-63359',
 };
