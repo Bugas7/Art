@@ -1,0 +1,33 @@
+{
+  "name": "art-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "check-images": "node scripts/check-images-status.mjs",
+    "check-images:all": "node scripts/check-images-status.mjs --all",
+    "check-images:json": "node scripts/check-images-status.mjs --json",
+    "check-images:csv": "node scripts/check-images-status.mjs --csv",
+    "check-images:create": "node scripts/check-images-status.mjs --create-missing",
+    "check-images:download": "node scripts/check-images-status.mjs --list-for-download",
+    "check-images:orphans": "node scripts/check-images-status.mjs --check-orphans"
+  },
+  "dependencies": {
+    "next": "16.2.3",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

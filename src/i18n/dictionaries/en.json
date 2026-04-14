@@ -1,0 +1,65 @@
+{
+  "common": {
+    "home": "Home",
+    "artworks": "Artworks",
+    "about": "About",
+    "contact": "Contact",
+    "back": "Back",
+    "backToGallery": "Back to Gallery",
+    "viewArtwork": "View Artwork",
+    "sold": "Sold",
+    "price": "Price",
+    "dimensions": "Dimensions",
+    "medium": "Medium",
+    "year": "Year",
+    "category": "Category",
+    "allWorks": "All Works",
+    "scale": "Scale"
+  },
+  "home": {
+    "title": "Iryna Barabash",
+    "subtitle": "Oil paintings exploring themes of memory, heritage, and the beauty of nature. Each painting is a story told through light, color, and texture."
+  },
+  "about": {
+    "title": "About Artist"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "viewInRoom": {
+    "button": "View in Room",
+    "title": "Room Preview",
+    "selectInterior": "Select Interior",
+    "selectFrame": "Select Frame",
+    "selectThickness": "Frame Thickness",
+    "noFrame": "No Frame",
+    "classic": "Classic Ornate",
+    "modern": "Modern Sleek",
+    "wood": "Natural Wood",
+    "thickness": {
+      "slim": "Slim",
+      "regular": "Regular",
+      "wide": "Wide"
+    },
+    "categories": {
+      "livingRoom": "Living Room",
+      "bedroom": "Bedroom",
+      "office": "Office"
+    },
+    "interiors": {
+      "living-room-1": "Minimalist",
+      "living-room-2": "Classic",
+      "living-room-3": "Scandinavian",
+      "bedroom-1": "Cozy",
+      "bedroom-2": "Luxury",
+      "bedroom-3": "Boho",
+      "office-1": "Corporate",
+      "office-2": "Library",
+      "office-3": "Creative"
+    }
+  }
+}

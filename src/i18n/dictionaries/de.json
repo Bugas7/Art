@@ -1,0 +1,48 @@
+{
+  "common": {
+    "home": "Startseite",
+    "artworks": "Kunstwerke",
+    "about": "Über mich",
+    "contact": "Kontakt",
+    "back": "Zurück",
+    "backToGallery": "Zurück zur Galerie",
+    "viewArtwork": "Kunstwerk ansehen",
+    "sold": "Verkauft",
+    "price": "Preis",
+    "dimensions": "Maße",
+    "medium": "Medium",
+    "year": "Jahr",
+    "category": "Kategorie",
+    "allWorks": "Alle Werke"
+  },
+  "home": {
+    "title": "Iryna Barabash",
+    "subtitle": "Ölgemälde, die Themen wie Erinnerung, Erbe und die Schönheit der Natur erforschen. Jedes Gemälde ist eine Geschichte, die durch Licht, Farbe und Textur erzählt wird."
+  },
+  "about": {
+    "title": "Über die Künstlerin"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "send": "Nachricht senden"
+  },
+  "viewInRoom": {
+    "button": "Im Raum ansehen",
+    "title": "Raumvorschau",
+    "selectInterior": "Interieur wählen",
+    "selectFrame": "Rahmen wählen",
+    "noFrame": "Ohne Rahmen",
+    "classicWood": "Klassisches Holz",
+    "modernBlack": "Modernes Schwarz",
+    "gold": "Goldrahmen",
+    "white": "Modernes Weiß",
+    "interiors": {
+      "living-room": "Wohnzimmer",
+      "office": "Büro",
+      "gallery": "Galerie"
+    }
+  }
+}
