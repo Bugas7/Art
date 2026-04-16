@@ -6,9 +6,10 @@ import { type Locale } from '@/i18n/config';
 interface ArtworkCardProps {
   artwork: Artwork;
   locale: Locale;
+  priority?: boolean;
 }
 
-export default function ArtworkCard({ artwork, locale }: ArtworkCardProps) {
+export default function ArtworkCard({ artwork, locale, priority = false }: ArtworkCardProps) {
   return (
     <Link
       href={`/${locale}/artworks/${artwork.id}`}
@@ -19,6 +20,7 @@ export default function ArtworkCard({ artwork, locale }: ArtworkCardProps) {
           src={artwork.image}
           alt={artwork.title[locale]}
           fill
+          priority={priority}
           className="object-cover transition-transform duration-500 group-hover:scale-105"
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
         />

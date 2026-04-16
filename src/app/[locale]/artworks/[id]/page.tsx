@@ -30,7 +30,12 @@ export default async function ArtworkPage({ params }: { params: Promise<Params> 
   }
 
   const dictionary = await getDictionary(locale);
-  const galleryImages = artwork.images || [artwork.image];
+  
+  // Ensure the primary image from the home page is ALWAYS first
+  const galleryImages = [
+    artwork.image,
+    ...(artwork.images || []).filter(img => img !== artwork.image)
+  ];
 
   return (
     <div className="mx-auto max-w-7xl px-6 py-16 md:py-24">
@@ -43,7 +48,7 @@ export default async function ArtworkPage({ params }: { params: Promise<Params> 
 
       <div className="grid gap-12 lg:grid-cols-2">
         {/* Gallery */}
-        <ImageGallery images={galleryImages} title={artwork.title[locale]} />
+        <ImageGallery key={artwork.id} images={galleryImages} title={artwork.title[locale]} />
 
         {/* Details */}
         <div className="flex flex-col justify-center">
@@ -79,10 +84,10 @@ export default async function ArtworkPage({ params }: { params: Promise<Params> 
             </p>
           </div>
 
-          <div className="mt-10 flex flex-wrap gap-4">
+          <div className="mt-10 flex flex-col gap-4">
             <Link
               href={`/${locale}/contact`}
-              className="inline-block rounded-full bg-stone-800 px-8 py-3 text-sm uppercase tracking-widest text-white transition-colors hover:bg-stone-600"
+              className="flex w-full items-center justify-center rounded-full bg-stone-800 px-8 py-4 text-[10px] font-bold uppercase tracking-[0.2em] text-white transition-all hover:bg-stone-700 active:scale-[0.98]"
             >
               {locale === 'ru' ? 'Связаться по этой работе' : 
                locale === 'uk' ? 'Зв\'язатися щодо цієї роботи' :

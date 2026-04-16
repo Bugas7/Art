@@ -25,16 +25,16 @@ export const artworks: Artwork[] = [
       "de": "Stillleben mit Elementen des Symbolismus. Ein Skelett in einem Kunstatelier – ein Nachdenken über die Vergänglichkeit und Ewigkeit der Kunst.",
       "uk": "Натюрморт з елементами символізму. Скелет у художній студії — роздуми про минущість і вічність мистецтва."
     },
-    "image": "/images/artworks/skeleton-in-the-studio/main.png",
+    "image": "/images/artworks/skeleton-in-the-studio/main.jpg",
     "images": [
-      "/images/artworks/skeleton-in-the-studio/main.png",
-      "/images/artworks/skeleton-in-the-studio/detail-1.png",
-      "/images/artworks/skeleton-in-the-studio/detail-2.png",
-      "/images/artworks/skeleton-in-the-studio/detail-3.png",
-      "/images/artworks/skeleton-in-the-studio/detail-4.png",
-      "/images/artworks/skeleton-in-the-studio/interior-1.png",
-      "/images/artworks/skeleton-in-the-studio/interior-2.png"
-],
+      "/images/artworks/skeleton-in-the-studio/main.jpg",
+      "/images/artworks/skeleton-in-the-studio/detail-1.jpg",
+      "/images/artworks/skeleton-in-the-studio/detail-2.jpg",
+      "/images/artworks/skeleton-in-the-studio/detail-3.jpg",
+      "/images/artworks/skeleton-in-the-studio/detail-4.jpg",
+      "/images/artworks/skeleton-in-the-studio/interior-1.jpg",
+      "/images/artworks/skeleton-in-the-studio/interior-2.jpg"
+    ],
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -67,15 +67,15 @@ export const artworks: Artwork[] = [
       "de": "Frühlingslandschaft von Wien, erfüllt von Licht und Erneuerung. Impressionistischer Stil der Vermittlung der erwachenden Natur.",
       "uk": "Весняний пейзаж Відня, наповнений світлом і оновленням. Імпресіоністична манера передачі природи, що пробуджується."
     },
-    "image": "/images/artworks/spring-in-vienna/main.png",
+    "image": "/images/artworks/spring-in-vienna/main.jpg",
     "images": [
-      "/images/artworks/spring-in-vienna/main.png",
-      "/images/artworks/spring-in-vienna/detail-1.png",
-      "/images/artworks/spring-in-vienna/detail-2.png",
-      "/images/artworks/spring-in-vienna/detail-3.png",
-      "/images/artworks/spring-in-vienna/interior-1.png",
-      "/images/artworks/spring-in-vienna/interior-2.png"
-],
+      "/images/artworks/spring-in-vienna/main.jpg",
+      "/images/artworks/spring-in-vienna/detail-1.jpg",
+      "/images/artworks/spring-in-vienna/detail-2.jpg",
+      "/images/artworks/spring-in-vienna/detail-3.jpg",
+      "/images/artworks/spring-in-vienna/interior-1.jpg",
+      "/images/artworks/spring-in-vienna/interior-2.jpg"
+    ],
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -108,7 +108,7 @@ export const artworks: Artwork[] = [
       "de": "Ruhe eines Bergsees inmitten der Alpen. Die Spiegelung des Himmels im Wasser erzeugt ein Gefühl der Unendlichkeit.",
       "uk": "Спокій гірського озера в оточенні Альп. Відображення неба у воді створює відчуття нескінченності."
     },
-    "image": "/images/artworks/the-alpine-lake/main.png",
+    "image": "/images/artworks/the-alpine-lake/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -117,13 +117,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 920",
     "images": [
-      "/images/artworks/the-alpine-lake/detail-1.png",
-      "/images/artworks/the-alpine-lake/detail-2.png",
-      "/images/artworks/the-alpine-lake/detail-3.png",
-      "/images/artworks/the-alpine-lake/detail-4.png",
-      "/images/artworks/the-alpine-lake/interior-1.png",
-      "/images/artworks/the-alpine-lake/interior-2.png",
-      "/images/artworks/the-alpine-lake/main.png"
+      "/images/artworks/the-alpine-lake/detail-1.jpg",
+      "/images/artworks/the-alpine-lake/detail-2.jpg",
+      "/images/artworks/the-alpine-lake/detail-3.jpg",
+      "/images/artworks/the-alpine-lake/detail-4.jpg",
+      "/images/artworks/the-alpine-lake/interior-1.jpg",
+      "/images/artworks/the-alpine-lake/interior-2.jpg",
+      "/images/artworks/the-alpine-lake/main.jpg"
     ]
   },
   {
@@ -150,7 +150,7 @@ export const artworks: Artwork[] = [
       "de": "Stilvolles Stillleben mit dem legendären Parfümflakon. Lichtspiele auf dem Glas und Eleganz der Form.",
       "uk": "Стильний натюрморт з легендарним флаконом парфумів. Гра світла на склі та елегантність форми."
     },
-    "image": "/images/artworks/chanel-no-5/main.png",
+    "image": "/images/artworks/chanel-no-5/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -159,17 +159,17 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 679",
     "images": [
-      "/images/artworks/chanel-no-5/detail-1.png",
-      "/images/artworks/chanel-no-5/detail-2.png",
-      "/images/artworks/chanel-no-5/detail-3.png",
-      "/images/artworks/chanel-no-5/detail-4.png",
-      "/images/artworks/chanel-no-5/detail-5.png",
-      "/images/artworks/chanel-no-5/detail-6.png",
-      "/images/artworks/chanel-no-5/detail-7.png",
-      "/images/artworks/chanel-no-5/detail-8.png",
-      "/images/artworks/chanel-no-5/interior-1.png",
-      "/images/artworks/chanel-no-5/interior-2.png",
-      "/images/artworks/chanel-no-5/main.png"
+      "/images/artworks/chanel-no-5/detail-1.jpg",
+      "/images/artworks/chanel-no-5/detail-2.jpg",
+      "/images/artworks/chanel-no-5/detail-3.jpg",
+      "/images/artworks/chanel-no-5/detail-4.jpg",
+      "/images/artworks/chanel-no-5/detail-5.jpg",
+      "/images/artworks/chanel-no-5/detail-6.jpg",
+      "/images/artworks/chanel-no-5/detail-7.jpg",
+      "/images/artworks/chanel-no-5/detail-8.jpg",
+      "/images/artworks/chanel-no-5/interior-1.jpg",
+      "/images/artworks/chanel-no-5/interior-2.jpg",
+      "/images/artworks/chanel-no-5/main.jpg"
     ]
   },
   {
@@ -196,7 +196,7 @@ export const artworks: Artwork[] = [
       "de": "Seestück mit der untergehenden Sonne in einem ruhigen Hafen. Warme Himmelsfarben spiegeln sich im ruhigen Wasser.",
       "uk": "Морський пейзаж із західом сонця в тихій гавані. Теплі відтінки неба відбиваються в спокійній воді."
     },
-    "image": "/images/artworks/sunset-in-the-haven/main.png",
+    "image": "/images/artworks/sunset-in-the-haven/main.jpg",
     "category": {
       "en": "Seascape",
       "de": "Seestück",
@@ -205,12 +205,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 784",
     "images": [
-      "/images/artworks/sunset-in-the-haven/detail-1.png",
-      "/images/artworks/sunset-in-the-haven/detail-2.png",
-      "/images/artworks/sunset-in-the-haven/detail-3.png",
-      "/images/artworks/sunset-in-the-haven/interior-1.png",
-      "/images/artworks/sunset-in-the-haven/interior-2.png",
-      "/images/artworks/sunset-in-the-haven/main.png"
+      "/images/artworks/sunset-in-the-haven/detail-1.jpg",
+      "/images/artworks/sunset-in-the-haven/detail-2.jpg",
+      "/images/artworks/sunset-in-the-haven/detail-3.jpg",
+      "/images/artworks/sunset-in-the-haven/interior-1.jpg",
+      "/images/artworks/sunset-in-the-haven/interior-2.jpg",
+      "/images/artworks/sunset-in-the-haven/main.jpg"
     ]
   },
   {
@@ -237,7 +237,7 @@ export const artworks: Artwork[] = [
       "de": "Mediterrane Atmosphäre des Lebens auf der Yacht. Leuchtende Farben und ein Gefühl von Freiheit.",
       "uk": "Середземноморська атмосфера яхтового життя. Яскраві кольори та відчуття свободи."
     },
-    "image": "/images/artworks/life-on-a-yacht/main.png",
+    "image": "/images/artworks/life-on-a-yacht/main.jpg",
     "category": {
       "en": "Seascape",
       "de": "Seestück",
@@ -246,14 +246,14 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 320",
     "images": [
-      "/images/artworks/life-on-a-yacht/detail-1.png",
-      "/images/artworks/life-on-a-yacht/detail-2.png",
-      "/images/artworks/life-on-a-yacht/detail-3.png",
-      "/images/artworks/life-on-a-yacht/detail-4.png",
-      "/images/artworks/life-on-a-yacht/detail-5.png",
-      "/images/artworks/life-on-a-yacht/interior-1.png",
-      "/images/artworks/life-on-a-yacht/interior-2.png",
-      "/images/artworks/life-on-a-yacht/main.png"
+      "/images/artworks/life-on-a-yacht/detail-1.jpg",
+      "/images/artworks/life-on-a-yacht/detail-2.jpg",
+      "/images/artworks/life-on-a-yacht/detail-3.jpg",
+      "/images/artworks/life-on-a-yacht/detail-4.jpg",
+      "/images/artworks/life-on-a-yacht/detail-5.jpg",
+      "/images/artworks/life-on-a-yacht/interior-1.jpg",
+      "/images/artworks/life-on-a-yacht/interior-2.jpg",
+      "/images/artworks/life-on-a-yacht/main.jpg"
     ]
   },
   {
@@ -280,7 +280,7 @@ export const artworks: Artwork[] = [
       "de": "Stadtbild von Wien. Architektur und Licht auf impressionistische Weise.",
       "uk": "Міський пейзаж Відня. Архітектура та світло в імпресіоністичній манері."
     },
-    "image": "/images/artworks/viennas-view/main.png",
+    "image": "/images/artworks/viennas-view/main.jpg",
     "category": {
       "en": "Cityscape",
       "de": "Stadtbild",
@@ -289,11 +289,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 854",
     "images": [
-      "/images/artworks/viennas-view/detail-1.png",
-      "/images/artworks/viennas-view/detail-2.png",
-      "/images/artworks/viennas-view/interior-1.png",
-      "/images/artworks/viennas-view/interior-2.png",
-      "/images/artworks/viennas-view/main.png"
+      "/images/artworks/viennas-view/detail-1.jpg",
+      "/images/artworks/viennas-view/detail-2.jpg",
+      "/images/artworks/viennas-view/interior-1.jpg",
+      "/images/artworks/viennas-view/interior-2.jpg",
+      "/images/artworks/viennas-view/main.jpg"
     ]
   },
   {
@@ -320,7 +320,7 @@ export const artworks: Artwork[] = [
       "de": "Eine berührende Hommage an Erbe und Erinnerung. Das Gemälde zeigt Fotos der Großeltern, Haushaltsgegenstände, die die Wärme der Familie bewahren. Jedes Element ist voller Erinnerungen.",
       "uk": "Зворушлива данина спадщині та пам'яті. На картині зображені фотографії бабусі та дідуся, предмети побуту, що зберігають тепло родини. Кожен елемент наповнений спогадами."
     },
-    "image": "/images/artworks/the-heritage/main.png",
+    "image": "/images/artworks/the-heritage/main.jpg",
     "category": {
       "en": "Memory",
       "de": "Erinnerung",
@@ -329,15 +329,15 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 070",
     "images": [
-      "/images/artworks/the-heritage/detail-1.png",
-      "/images/artworks/the-heritage/detail-2.png",
-      "/images/artworks/the-heritage/detail-3.png",
-      "/images/artworks/the-heritage/detail-4.png",
-      "/images/artworks/the-heritage/detail-5.png",
-      "/images/artworks/the-heritage/detail-6.png",
-      "/images/artworks/the-heritage/interior-1.png",
-      "/images/artworks/the-heritage/interior-2.png",
-      "/images/artworks/the-heritage/main.png"
+      "/images/artworks/the-heritage/detail-1.jpg",
+      "/images/artworks/the-heritage/detail-2.jpg",
+      "/images/artworks/the-heritage/detail-3.jpg",
+      "/images/artworks/the-heritage/detail-4.jpg",
+      "/images/artworks/the-heritage/detail-5.jpg",
+      "/images/artworks/the-heritage/detail-6.jpg",
+      "/images/artworks/the-heritage/interior-1.jpg",
+      "/images/artworks/the-heritage/interior-2.jpg",
+      "/images/artworks/the-heritage/main.jpg"
     ]
   },
   {
@@ -364,7 +364,7 @@ export const artworks: Artwork[] = [
       "de": "Stillleben mit Schuhen – eine Geschichte von Weg und Bewegung. Jedes Objekt bewahrt Spuren des Lebens.",
       "uk": "Натюрморт із взуттям — історія шляху та руху. Кожен предмет зберігає сліди життя."
     },
-    "image": "/images/artworks/shoes/main.png",
+    "image": "/images/artworks/shoes/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -373,11 +373,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 602",
     "images": [
-      "/images/artworks/shoes/detail-1.png",
-      "/images/artworks/shoes/detail-2.png",
-      "/images/artworks/shoes/interior-1.png",
-      "/images/artworks/shoes/interior-2.png",
-      "/images/artworks/shoes/main.png"
+      "/images/artworks/shoes/detail-1.jpg",
+      "/images/artworks/shoes/detail-2.jpg",
+      "/images/artworks/shoes/interior-1.jpg",
+      "/images/artworks/shoes/interior-2.jpg",
+      "/images/artworks/shoes/main.jpg"
     ]
   },
   {
@@ -404,7 +404,7 @@ export const artworks: Artwork[] = [
       "de": "Majestätische Berglandschaft. Stille und Kraft der Natur, vermittelt durch Licht und Farbe.",
       "uk": "Величний гірський пейзаж. Тиша і міць природи, передана через світло і колір."
     },
-    "image": "/images/artworks/silent-majesty/main.png",
+    "image": "/images/artworks/silent-majesty/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -413,13 +413,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 800",
     "images": [
-      "/images/artworks/silent-majesty/detail-1.png",
-      "/images/artworks/silent-majesty/detail-2.png",
-      "/images/artworks/silent-majesty/detail-3.png",
-      "/images/artworks/silent-majesty/detail-4.png",
-      "/images/artworks/silent-majesty/interior-1.png",
-      "/images/artworks/silent-majesty/interior-2.png",
-      "/images/artworks/silent-majesty/main.png"
+      "/images/artworks/silent-majesty/detail-1.jpg",
+      "/images/artworks/silent-majesty/detail-2.jpg",
+      "/images/artworks/silent-majesty/detail-3.jpg",
+      "/images/artworks/silent-majesty/detail-4.jpg",
+      "/images/artworks/silent-majesty/interior-1.jpg",
+      "/images/artworks/silent-majesty/interior-2.jpg",
+      "/images/artworks/silent-majesty/main.jpg"
     ]
   },
   {
@@ -446,7 +446,7 @@ export const artworks: Artwork[] = [
       "de": "Stillleben mit einer ukrainischen Volksgruppe. Verbindung zu den Wurzeln und dem kulturellen Erbe.",
       "uk": "Натюрморт з українською народною лялькою. Зв'язок з корінням та культурною спадщиною."
     },
-    "image": "/images/artworks/ukrainian-doll/main.png",
+    "image": "/images/artworks/ukrainian-doll/main.jpg",
     "category": {
       "en": "Memory",
       "de": "Erinnerung",
@@ -455,13 +455,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 750",
     "images": [
-      "/images/artworks/ukrainian-doll/detail-1.png",
-      "/images/artworks/ukrainian-doll/detail-2.png",
-      "/images/artworks/ukrainian-doll/detail-3.png",
-      "/images/artworks/ukrainian-doll/detail-4.png",
-      "/images/artworks/ukrainian-doll/interior-1.png",
-      "/images/artworks/ukrainian-doll/interior-2.png",
-      "/images/artworks/ukrainian-doll/main.png"
+      "/images/artworks/ukrainian-doll/detail-1.jpg",
+      "/images/artworks/ukrainian-doll/detail-2.jpg",
+      "/images/artworks/ukrainian-doll/detail-3.jpg",
+      "/images/artworks/ukrainian-doll/detail-4.jpg",
+      "/images/artworks/ukrainian-doll/interior-1.jpg",
+      "/images/artworks/ukrainian-doll/interior-2.jpg",
+      "/images/artworks/ukrainian-doll/main.jpg"
     ]
   },
   {
@@ -488,7 +488,7 @@ export const artworks: Artwork[] = [
       "de": "Abstrakte Komposition, die die innere Welt der Emotionen durch Farbe und Form ausdrückt.",
       "uk": "Абстрактна композиція, що виражає внутрішній світ емоцій через колір і форму."
     },
-    "image": "/images/artworks/whispering-emotions/main.png",
+    "image": "/images/artworks/whispering-emotions/main.jpg",
     "category": {
       "en": "Abstraction",
       "de": "Abstraktion",
@@ -497,12 +497,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 560",
     "images": [
-      "/images/artworks/whispering-emotions/detail-1.png",
-      "/images/artworks/whispering-emotions/detail-2.png",
-      "/images/artworks/whispering-emotions/detail-3.png",
-      "/images/artworks/whispering-emotions/interior-1.png",
-      "/images/artworks/whispering-emotions/interior-2.png",
-      "/images/artworks/whispering-emotions/main.png"
+      "/images/artworks/whispering-emotions/detail-1.jpg",
+      "/images/artworks/whispering-emotions/detail-2.jpg",
+      "/images/artworks/whispering-emotions/detail-3.jpg",
+      "/images/artworks/whispering-emotions/interior-1.jpg",
+      "/images/artworks/whispering-emotions/interior-2.jpg",
+      "/images/artworks/whispering-emotions/main.jpg"
     ]
   },
   {
@@ -529,7 +529,7 @@ export const artworks: Artwork[] = [
       "de": "Abstrakte Landschaft an der Grenze zwischen Realität und Imagination.",
       "uk": "Абстрактний пейзаж на межі реальності та уяви."
     },
-    "image": "/images/at-the-edge-of-the-world.jpg",
+    "image": "/images/artworks/at-the-edge-of-the-world/main.jpg",
     "category": {
       "en": "Abstraction",
       "de": "Abstraktion",
@@ -538,13 +538,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 450",
     "images": [
-      "/images/artworks/at-the-edge-of-the-world/detail-1.png",
-      "/images/artworks/at-the-edge-of-the-world/detail-2.png",
-      "/images/artworks/at-the-edge-of-the-world/detail-3.png",
-      "/images/artworks/at-the-edge-of-the-world/interior-1.png",
-      "/images/artworks/at-the-edge-of-the-world/interior-2.png",
-      "/images/artworks/at-the-edge-of-the-world/interior-3.png",
-      "/images/artworks/at-the-edge-of-the-world/main.png"
+      "/images/artworks/at-the-edge-of-the-world/detail-1.jpg",
+      "/images/artworks/at-the-edge-of-the-world/detail-2.jpg",
+      "/images/artworks/at-the-edge-of-the-world/detail-3.jpg",
+      "/images/artworks/at-the-edge-of-the-world/interior-1.jpg",
+      "/images/artworks/at-the-edge-of-the-world/interior-2.jpg",
+      "/images/artworks/at-the-edge-of-the-world/interior-3.jpg",
+      "/images/artworks/at-the-edge-of-the-world/main.jpg"
     ]
   },
   {
@@ -571,7 +571,7 @@ export const artworks: Artwork[] = [
       "de": "Stillleben mit Gemüse. Einfachheit und Schönheit alltäglicher Gegenstände.",
       "uk": "Натюрморт з овочами. Простота і краса повсякденних предметів."
     },
-    "image": "/images/artworks/two-kohlrabi/main.png",
+    "image": "/images/artworks/two-kohlrabi/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -580,15 +580,15 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 650",
     "images": [
-      "/images/artworks/two-kohlrabi/detail-1.png",
-      "/images/artworks/two-kohlrabi/detail-2.png",
-      "/images/artworks/two-kohlrabi/detail-3.png",
-      "/images/artworks/two-kohlrabi/detail-4.png",
-      "/images/artworks/two-kohlrabi/detail-5.png",
-      "/images/artworks/two-kohlrabi/detail-6.png",
-      "/images/artworks/two-kohlrabi/interior-1.png",
-      "/images/artworks/two-kohlrabi/interior-2.png",
-      "/images/artworks/two-kohlrabi/main.png"
+      "/images/artworks/two-kohlrabi/detail-1.jpg",
+      "/images/artworks/two-kohlrabi/detail-2.jpg",
+      "/images/artworks/two-kohlrabi/detail-3.jpg",
+      "/images/artworks/two-kohlrabi/detail-4.jpg",
+      "/images/artworks/two-kohlrabi/detail-5.jpg",
+      "/images/artworks/two-kohlrabi/detail-6.jpg",
+      "/images/artworks/two-kohlrabi/interior-1.jpg",
+      "/images/artworks/two-kohlrabi/interior-2.jpg",
+      "/images/artworks/two-kohlrabi/main.jpg"
     ]
   },
   {
@@ -615,7 +615,7 @@ export const artworks: Artwork[] = [
       "de": "Stillleben mit Kakteen. Exotik und Widerstandsfähigkeit der Wüstenschönheit.",
       "uk": "Натюрморт з кактусами. Екзотика та стійкість пустельної краси."
     },
-    "image": "/images/artworks/cactus-serenade/main.png",
+    "image": "/images/artworks/cactus-serenade/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -624,14 +624,14 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 700",
     "images": [
-      "/images/artworks/cactus-serenade/detail-1.png",
-      "/images/artworks/cactus-serenade/detail-2.png",
-      "/images/artworks/cactus-serenade/detail-3.png",
-      "/images/artworks/cactus-serenade/detail-4.png",
-      "/images/artworks/cactus-serenade/detail-5.png",
-      "/images/artworks/cactus-serenade/interior-1.png",
-      "/images/artworks/cactus-serenade/interior-2.png",
-      "/images/artworks/cactus-serenade/main.png"
+      "/images/artworks/cactus-serenade/detail-1.jpg",
+      "/images/artworks/cactus-serenade/detail-2.jpg",
+      "/images/artworks/cactus-serenade/detail-3.jpg",
+      "/images/artworks/cactus-serenade/detail-4.jpg",
+      "/images/artworks/cactus-serenade/detail-5.jpg",
+      "/images/artworks/cactus-serenade/interior-1.jpg",
+      "/images/artworks/cactus-serenade/interior-2.jpg",
+      "/images/artworks/cactus-serenade/main.jpg"
     ]
   },
   {
@@ -658,7 +658,7 @@ export const artworks: Artwork[] = [
       "de": "Komposition über Frieden und Ruhe. Weiche Töne und Harmonie der Form.",
       "uk": "Композиція про спокій і умиротворення. М'які тони та гармонія форми."
     },
-    "image": "/images/artworks/finally-a-rest/main.png",
+    "image": "/images/artworks/finally-a-rest/main.jpg",
     "category": {
       "en": "Abstraction",
       "de": "Abstraktion",
@@ -667,14 +667,14 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 450",
     "images": [
-      "/images/artworks/finally-a-rest/detail-1.png",
-      "/images/artworks/finally-a-rest/detail-2.png",
-      "/images/artworks/finally-a-rest/detail-3.png",
-      "/images/artworks/finally-a-rest/detail-4.png",
-      "/images/artworks/finally-a-rest/detail-5.png",
-      "/images/artworks/finally-a-rest/interior-1.png",
-      "/images/artworks/finally-a-rest/interior-2.png",
-      "/images/artworks/finally-a-rest/main.png"
+      "/images/artworks/finally-a-rest/detail-1.jpg",
+      "/images/artworks/finally-a-rest/detail-2.jpg",
+      "/images/artworks/finally-a-rest/detail-3.jpg",
+      "/images/artworks/finally-a-rest/detail-4.jpg",
+      "/images/artworks/finally-a-rest/detail-5.jpg",
+      "/images/artworks/finally-a-rest/interior-1.jpg",
+      "/images/artworks/finally-a-rest/interior-2.jpg",
+      "/images/artworks/finally-a-rest/main.jpg"
     ]
   },
   {
@@ -701,7 +701,7 @@ export const artworks: Artwork[] = [
       "de": "Zarte Frühlingslandschaft. Erste Blumen und Erwachen der Natur.",
       "uk": "Ніжний весняний пейзаж. Перші квіти та пробудження природи."
     },
-    "image": "/images/artworks/spring-awakening/main.png",
+    "image": "/images/artworks/spring-awakening/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -710,14 +710,14 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 400",
     "images": [
-      "/images/artworks/spring-awakening/detail-1.png",
-      "/images/artworks/spring-awakening/detail-2.png",
-      "/images/artworks/spring-awakening/detail-3.png",
-      "/images/artworks/spring-awakening/detail-4.png",
-      "/images/artworks/spring-awakening/detail-5.png",
-      "/images/artworks/spring-awakening/interior-1.png",
-      "/images/artworks/spring-awakening/interior-2.png",
-      "/images/artworks/spring-awakening/main.png"
+      "/images/artworks/spring-awakening/detail-1.jpg",
+      "/images/artworks/spring-awakening/detail-2.jpg",
+      "/images/artworks/spring-awakening/detail-3.jpg",
+      "/images/artworks/spring-awakening/detail-4.jpg",
+      "/images/artworks/spring-awakening/detail-5.jpg",
+      "/images/artworks/spring-awakening/interior-1.jpg",
+      "/images/artworks/spring-awakening/interior-2.jpg",
+      "/images/artworks/spring-awakening/main.jpg"
     ]
   },
   {
@@ -744,7 +744,7 @@ export const artworks: Artwork[] = [
       "de": "Leuchtende Schmuckkörbchen vor dem Sommerhimmel. Freude und Leichtigkeit des Seins.",
       "uk": "Яскраві квіти космеї на фоні літнього неба. Радість і легкість буття."
     },
-    "image": "/images/artworks/cosmos-flowers-and-humor/main.png",
+    "image": "/images/artworks/cosmos-flowers-and-humor/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -753,13 +753,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 770",
     "images": [
-      "/images/artworks/cosmos-flowers-and-humor/detail-1.png",
-      "/images/artworks/cosmos-flowers-and-humor/detail-2.png",
-      "/images/artworks/cosmos-flowers-and-humor/detail-3.png",
-      "/images/artworks/cosmos-flowers-and-humor/detail-4.png",
-      "/images/artworks/cosmos-flowers-and-humor/interior-1.png",
-      "/images/artworks/cosmos-flowers-and-humor/interior-2.png",
-      "/images/artworks/cosmos-flowers-and-humor/main.png"
+      "/images/artworks/cosmos-flowers-and-humor/detail-1.jpg",
+      "/images/artworks/cosmos-flowers-and-humor/detail-2.jpg",
+      "/images/artworks/cosmos-flowers-and-humor/detail-3.jpg",
+      "/images/artworks/cosmos-flowers-and-humor/detail-4.jpg",
+      "/images/artworks/cosmos-flowers-and-humor/interior-1.jpg",
+      "/images/artworks/cosmos-flowers-and-humor/interior-2.jpg",
+      "/images/artworks/cosmos-flowers-and-humor/main.jpg"
     ]
   },
   {
@@ -786,7 +786,7 @@ export const artworks: Artwork[] = [
       "de": "Symbolische Komposition über die Wendungen der Geschichte. Farbschichten als Schichten der Erinnerung.",
       "uk": "Символічна композиція про повороти історії. Шари фарби як шари пам'яті."
     },
-    "image": "/images/artworks/the-twists-of-history/main.png",
+    "image": "/images/artworks/the-twists-of-history/main.jpg",
     "category": {
       "en": "Abstraction",
       "de": "Abstraktion",
@@ -795,12 +795,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 860",
     "images": [
-      "/images/artworks/the-twists-of-history/detail-1.png",
-      "/images/artworks/the-twists-of-history/detail-2.png",
-      "/images/artworks/the-twists-of-history/detail-3.png",
-      "/images/artworks/the-twists-of-history/interior-1.png",
-      "/images/artworks/the-twists-of-history/interior-2.png",
-      "/images/artworks/the-twists-of-history/main.png"
+      "/images/artworks/the-twists-of-history/detail-1.jpg",
+      "/images/artworks/the-twists-of-history/detail-2.jpg",
+      "/images/artworks/the-twists-of-history/detail-3.jpg",
+      "/images/artworks/the-twists-of-history/interior-1.jpg",
+      "/images/artworks/the-twists-of-history/interior-2.jpg",
+      "/images/artworks/the-twists-of-history/main.jpg"
     ]
   },
   {
@@ -827,7 +827,7 @@ export const artworks: Artwork[] = [
       "de": "Lustiges Stillleben mit Puppen und einem Teeservice. Verspieltheit und Wärme.",
       "uk": "Кумедний натюрморт з ляльками та чайним сервізом. Грайливість і теплота."
     },
-    "image": "/images/artworks/chicken-tea-party/main.png",
+    "image": "/images/artworks/chicken-tea-party/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -836,11 +836,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 740",
     "images": [
-      "/images/artworks/chicken-tea-party/detail-1.png",
-      "/images/artworks/chicken-tea-party/detail-2.png",
-      "/images/artworks/chicken-tea-party/interior-1.png",
-      "/images/artworks/chicken-tea-party/interior-2.png",
-      "/images/artworks/chicken-tea-party/main.png"
+      "/images/artworks/chicken-tea-party/detail-1.jpg",
+      "/images/artworks/chicken-tea-party/detail-2.jpg",
+      "/images/artworks/chicken-tea-party/interior-1.jpg",
+      "/images/artworks/chicken-tea-party/interior-2.jpg",
+      "/images/artworks/chicken-tea-party/main.jpg"
     ]
   },
   {
@@ -867,7 +867,7 @@ export const artworks: Artwork[] = [
       "de": "Dramatische Berglandschaft. Gewitterbeleuchtung, Lichtstrahlen brechen durch die Wolken.",
       "uk": "Драматичний гірський пейзаж. Штормове освітлення, промені світла пробиваються крізь хмари."
     },
-    "image": "/images/artworks/stormlight-over-mountain/main.png",
+    "image": "/images/artworks/stormlight-over-mountain/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -876,12 +876,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 700",
     "images": [
-      "/images/artworks/stormlight-over-mountain/detail-1.png",
-      "/images/artworks/stormlight-over-mountain/detail-2.png",
-      "/images/artworks/stormlight-over-mountain/detail-3.png",
-      "/images/artworks/stormlight-over-mountain/interior-1.png",
-      "/images/artworks/stormlight-over-mountain/interior-2.png",
-      "/images/artworks/stormlight-over-mountain/main.png"
+      "/images/artworks/stormlight-over-mountain/detail-1.jpg",
+      "/images/artworks/stormlight-over-mountain/detail-2.jpg",
+      "/images/artworks/stormlight-over-mountain/detail-3.jpg",
+      "/images/artworks/stormlight-over-mountain/interior-1.jpg",
+      "/images/artworks/stormlight-over-mountain/interior-2.jpg",
+      "/images/artworks/stormlight-over-mountain/main.jpg"
     ]
   },
   {
@@ -908,7 +908,7 @@ export const artworks: Artwork[] = [
       "de": "Wiener Weinberge in herbstlichen Goldtönen. Reichtum der Ernte und Schönheit der österreichischen Natur.",
       "uk": "Віденські виноградники в золотих тонах осені. Багатство врожаю та краса австрійської природи."
     },
-    "image": "/images/artworks/golden-vineyards-vienna/main.png",
+    "image": "/images/artworks/golden-vineyards-vienna/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -917,13 +917,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 400",
     "images": [
-      "/images/artworks/golden-vineyards-vienna/detail-1.png",
-      "/images/artworks/golden-vineyards-vienna/detail-2.png",
-      "/images/artworks/golden-vineyards-vienna/detail-3.png",
-      "/images/artworks/golden-vineyards-vienna/detail-4.png",
-      "/images/artworks/golden-vineyards-vienna/interior-1.png",
-      "/images/artworks/golden-vineyards-vienna/interior-2.png",
-      "/images/artworks/golden-vineyards-vienna/main.png"
+      "/images/artworks/golden-vineyards-vienna/detail-1.jpg",
+      "/images/artworks/golden-vineyards-vienna/detail-2.jpg",
+      "/images/artworks/golden-vineyards-vienna/detail-3.jpg",
+      "/images/artworks/golden-vineyards-vienna/detail-4.jpg",
+      "/images/artworks/golden-vineyards-vienna/interior-1.jpg",
+      "/images/artworks/golden-vineyards-vienna/interior-2.jpg",
+      "/images/artworks/golden-vineyards-vienna/main.jpg"
     ]
   },
   {
@@ -950,7 +950,7 @@ export const artworks: Artwork[] = [
       "de": "Gespannte Atmosphäre vor dem Sturm. Dunkle Wolken und die Stille der Natur.",
       "uk": "Напружена атмосфера перед бурею. Темні хмари та затишшя природи."
     },
-    "image": "/images/artworks/before-the-storm/main.png",
+    "image": "/images/artworks/before-the-storm/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -959,13 +959,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 700",
     "images": [
-      "/images/artworks/before-the-storm/detail-1.png",
-      "/images/artworks/before-the-storm/detail-2.png",
-      "/images/artworks/before-the-storm/detail-3.png",
-      "/images/artworks/before-the-storm/detail-4.png",
-      "/images/artworks/before-the-storm/interior-1.png",
-      "/images/artworks/before-the-storm/interior-2.png",
-      "/images/artworks/before-the-storm/main.png"
+      "/images/artworks/before-the-storm/detail-1.jpg",
+      "/images/artworks/before-the-storm/detail-2.jpg",
+      "/images/artworks/before-the-storm/detail-3.jpg",
+      "/images/artworks/before-the-storm/detail-4.jpg",
+      "/images/artworks/before-the-storm/interior-1.jpg",
+      "/images/artworks/before-the-storm/interior-2.jpg",
+      "/images/artworks/before-the-storm/main.jpg"
     ]
   },
   {
@@ -992,7 +992,7 @@ export const artworks: Artwork[] = [
       "de": "Helles Stillleben, inspiriert von der Wärme des Mittelmeerraums. Leuchtende Zitronen vor dem Hintergrund der Meeresküste.",
       "uk": "Світлий натюрморт, натхненний теплом Середземномор'я. Яскраві лимони на тлі морського узбережжя."
     },
-    "image": "/images/artworks/mediterranean-mood/main.png",
+    "image": "/images/artworks/mediterranean-mood/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -1001,12 +1001,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 800",
     "images": [
-      "/images/artworks/mediterranean-mood/detail-1.png",
-      "/images/artworks/mediterranean-mood/detail-2.png",
-      "/images/artworks/mediterranean-mood/detail-3.png",
-      "/images/artworks/mediterranean-mood/interior-1.png",
-      "/images/artworks/mediterranean-mood/interior-2.png",
-      "/images/artworks/mediterranean-mood/main.png"
+      "/images/artworks/mediterranean-mood/detail-1.jpg",
+      "/images/artworks/mediterranean-mood/detail-2.jpg",
+      "/images/artworks/mediterranean-mood/detail-3.jpg",
+      "/images/artworks/mediterranean-mood/interior-1.jpg",
+      "/images/artworks/mediterranean-mood/interior-2.jpg",
+      "/images/artworks/mediterranean-mood/main.jpg"
     ]
   },
   {
@@ -1033,7 +1033,7 @@ export const artworks: Artwork[] = [
       "de": "Erkundung der Ewigkeit durch das Bild des Steins. Texturen und Schattierungen natürlicher Formen.",
       "uk": "Дослідження вічності через образ каменю. Текстури та відтінки природних форм."
     },
-    "image": "/images/artworks/stone-colors/main.png",
+    "image": "/images/artworks/stone-colors/main.jpg",
     "category": {
       "en": "Nature",
       "de": "Natur",
@@ -1042,11 +1042,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 400",
     "images": [
-      "/images/artworks/stone-colors/detail-1.png",
-      "/images/artworks/stone-colors/detail-2.png",
-      "/images/artworks/stone-colors/interior-1.png",
-      "/images/artworks/stone-colors/interior-2.png",
-      "/images/artworks/stone-colors/main.png"
+      "/images/artworks/stone-colors/detail-1.jpg",
+      "/images/artworks/stone-colors/detail-2.jpg",
+      "/images/artworks/stone-colors/interior-1.jpg",
+      "/images/artworks/stone-colors/interior-2.jpg",
+      "/images/artworks/stone-colors/main.jpg"
     ]
   },
   {
@@ -1073,7 +1073,7 @@ export const artworks: Artwork[] = [
       "de": "Eine Serie von Alpenlandschaften aus Fanningberg. Bergluft und Stille.",
       "uk": "Серія альпійських пейзажів Фаннінгберга. Гірське повітря та тиша."
     },
-    "image": "/images/artworks/fanningberg-3/main.png",
+    "image": "/images/artworks/fanningberg-3/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1082,11 +1082,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 500",
     "images": [
-      "/images/artworks/fanningberg-3/detail-1.png",
-      "/images/artworks/fanningberg-3/detail-2.png",
-      "/images/artworks/fanningberg-3/interior-1.png",
-      "/images/artworks/fanningberg-3/interior-2.png",
-      "/images/artworks/fanningberg-3/main.png"
+      "/images/artworks/fanningberg-3/detail-1.jpg",
+      "/images/artworks/fanningberg-3/detail-2.jpg",
+      "/images/artworks/fanningberg-3/interior-1.jpg",
+      "/images/artworks/fanningberg-3/interior-2.jpg",
+      "/images/artworks/fanningberg-3/main.jpg"
     ]
   },
   {
@@ -1113,7 +1113,7 @@ export const artworks: Artwork[] = [
       "de": "Fortsetzung der Fanningberg-Serie. Winterliche Alpen in weichem Licht.",
       "uk": "Продовження серії Фаннінгберг. Зимові Альпи у м'якому світлі."
     },
-    "image": "/images/artworks/fanningberg-2/main.png",
+    "image": "/images/artworks/fanningberg-2/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1122,11 +1122,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 500",
     "images": [
-      "/images/artworks/fanningberg-2/detail-1.png",
-      "/images/artworks/fanningberg-2/detail-2.png",
-      "/images/artworks/fanningberg-2/interior-1.png",
-      "/images/artworks/fanningberg-2/interior-2.png",
-      "/images/artworks/fanningberg-2/main.png"
+      "/images/artworks/fanningberg-2/detail-1.jpg",
+      "/images/artworks/fanningberg-2/detail-2.jpg",
+      "/images/artworks/fanningberg-2/interior-1.jpg",
+      "/images/artworks/fanningberg-2/interior-2.jpg",
+      "/images/artworks/fanningberg-2/main.jpg"
     ]
   },
   {
@@ -1153,7 +1153,7 @@ export const artworks: Artwork[] = [
       "de": "Der fünfte Teil der Fanningberg-Serie. Frühlingserwachen der Berge.",
       "uk": "П'ята частина серії Фаннінгберг. Весняне пробудження гір."
     },
-    "image": "/images/artworks/fanningberg-5/main.png",
+    "image": "/images/artworks/fanningberg-5/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1162,12 +1162,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 500",
     "images": [
-      "/images/artworks/fanningberg-5/detail-1.png",
-      "/images/artworks/fanningberg-5/detail-2.png",
-      "/images/artworks/fanningberg-5/detail-3.png",
-      "/images/artworks/fanningberg-5/interior-1.png",
-      "/images/artworks/fanningberg-5/interior-2.png",
-      "/images/artworks/fanningberg-5/main.png"
+      "/images/artworks/fanningberg-5/detail-1.jpg",
+      "/images/artworks/fanningberg-5/detail-2.jpg",
+      "/images/artworks/fanningberg-5/detail-3.jpg",
+      "/images/artworks/fanningberg-5/interior-1.jpg",
+      "/images/artworks/fanningberg-5/interior-2.jpg",
+      "/images/artworks/fanningberg-5/main.jpg"
     ]
   },
   {
@@ -1194,7 +1194,7 @@ export const artworks: Artwork[] = [
       "de": "Winterlandschaft mit sanftem Schneeleuchten. Stille und Reinheit der verschneiten Alpen.",
       "uk": "Зимовий пейзаж із м'яким сяйвом снігу. Тиша і чистота засніжених Альп."
     },
-    "image": "/images/artworks/winter-glow/main.png",
+    "image": "/images/artworks/winter-glow/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1203,15 +1203,15 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 320",
     "images": [
-      "/images/artworks/winter-glow/detail-1.png",
-      "/images/artworks/winter-glow/detail-2.png",
-      "/images/artworks/winter-glow/detail-3.png",
-      "/images/artworks/winter-glow/detail-4.png",
-      "/images/artworks/winter-glow/detail-5.png",
-      "/images/artworks/winter-glow/detail-6.png",
-      "/images/artworks/winter-glow/interior-1.png",
-      "/images/artworks/winter-glow/interior-2.png",
-      "/images/artworks/winter-glow/main.png"
+      "/images/artworks/winter-glow/detail-1.jpg",
+      "/images/artworks/winter-glow/detail-2.jpg",
+      "/images/artworks/winter-glow/detail-3.jpg",
+      "/images/artworks/winter-glow/detail-4.jpg",
+      "/images/artworks/winter-glow/detail-5.jpg",
+      "/images/artworks/winter-glow/detail-6.jpg",
+      "/images/artworks/winter-glow/interior-1.jpg",
+      "/images/artworks/winter-glow/interior-2.jpg",
+      "/images/artworks/winter-glow/main.jpg"
     ]
   },
   {
@@ -1238,7 +1238,7 @@ export const artworks: Artwork[] = [
       "de": "Stillleben mit Flaschen in der Dämmerung. Die Weichheit der Gouache erzeugt eine Sonnenuntergangsatmosphäre.",
       "uk": "Натюрморт із пляшками в сутінковому освітленні. М'якість гуаші створює атмосферу заходу сонця."
     },
-    "image": "/images/artworks/bottles-at-dusk/main.png",
+    "image": "/images/artworks/bottles-at-dusk/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -1247,13 +1247,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 350",
     "images": [
-      "/images/artworks/bottles-at-dusk/detail-1.png",
-      "/images/artworks/bottles-at-dusk/detail-2.png",
-      "/images/artworks/bottles-at-dusk/detail-3.png",
-      "/images/artworks/bottles-at-dusk/detail-4.png",
-      "/images/artworks/bottles-at-dusk/interior-1.png",
-      "/images/artworks/bottles-at-dusk/interior-2.png",
-      "/images/artworks/bottles-at-dusk/main.png"
+      "/images/artworks/bottles-at-dusk/detail-1.jpg",
+      "/images/artworks/bottles-at-dusk/detail-2.jpg",
+      "/images/artworks/bottles-at-dusk/detail-3.jpg",
+      "/images/artworks/bottles-at-dusk/detail-4.jpg",
+      "/images/artworks/bottles-at-dusk/interior-1.jpg",
+      "/images/artworks/bottles-at-dusk/interior-2.jpg",
+      "/images/artworks/bottles-at-dusk/main.jpg"
     ]
   },
   {
@@ -1280,7 +1280,7 @@ export const artworks: Artwork[] = [
       "de": "Zarte Schneeglöckchen – der erste Vorbote des Frühlings. Schneeweiße Blüten auf dunklem Hintergrund.",
       "uk": "Ніжні підсніжники — перші вісники весни. Білосніжні квіти на темному тлі."
     },
-    "image": "/images/artworks/snowdrop-symphony/main.png",
+    "image": "/images/artworks/snowdrop-symphony/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -1289,13 +1289,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 850",
     "images": [
-      "/images/artworks/snowdrop-symphony/detail-1.png",
-      "/images/artworks/snowdrop-symphony/detail-2.png",
-      "/images/artworks/snowdrop-symphony/detail-3.png",
-      "/images/artworks/snowdrop-symphony/detail-4.png",
-      "/images/artworks/snowdrop-symphony/interior-1.png",
-      "/images/artworks/snowdrop-symphony/interior-2.png",
-      "/images/artworks/snowdrop-symphony/main.png"
+      "/images/artworks/snowdrop-symphony/detail-1.jpg",
+      "/images/artworks/snowdrop-symphony/detail-2.jpg",
+      "/images/artworks/snowdrop-symphony/detail-3.jpg",
+      "/images/artworks/snowdrop-symphony/detail-4.jpg",
+      "/images/artworks/snowdrop-symphony/interior-1.jpg",
+      "/images/artworks/snowdrop-symphony/interior-2.jpg",
+      "/images/artworks/snowdrop-symphony/main.jpg"
     ]
   },
   {
@@ -1322,7 +1322,7 @@ export const artworks: Artwork[] = [
       "de": "Festliches Stillleben mit Weihnachtsbaum. Wärme und Gemütlichkeit der Winterferien.",
       "uk": "Святковий натюрморт з різдвяною ялинкою. Тепло та затишок зимових свят."
     },
-    "image": "/images/artworks/the-christmas-tree/main.png",
+    "image": "/images/artworks/the-christmas-tree/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -1331,12 +1331,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 450",
     "images": [
-      "/images/artworks/the-christmas-tree/detail-1.png",
-      "/images/artworks/the-christmas-tree/detail-2.png",
-      "/images/artworks/the-christmas-tree/detail-3.png",
-      "/images/artworks/the-christmas-tree/interior-1.png",
-      "/images/artworks/the-christmas-tree/interior-2.png",
-      "/images/artworks/the-christmas-tree/main.png"
+      "/images/artworks/the-christmas-tree/detail-1.jpg",
+      "/images/artworks/the-christmas-tree/detail-2.jpg",
+      "/images/artworks/the-christmas-tree/detail-3.jpg",
+      "/images/artworks/the-christmas-tree/interior-1.jpg",
+      "/images/artworks/the-christmas-tree/interior-2.jpg",
+      "/images/artworks/the-christmas-tree/main.jpg"
     ]
   },
   {
@@ -1363,7 +1363,7 @@ export const artworks: Artwork[] = [
       "de": "Das Ölgemälde zeigt einen anmutigen Baum, der sich in der sanften Umarmung des Frühlings wiegt.",
       "uk": "Олійний живопис зображує граційне дерево, що погойдується в ніжних обіймах весни."
     },
-    "image": "/images/artworks/spring-dance-of-tree/main.png",
+    "image": "/images/artworks/spring-dance-of-tree/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1372,13 +1372,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 710",
     "images": [
-      "/images/artworks/spring-dance-of-tree/detail-1.png",
-      "/images/artworks/spring-dance-of-tree/detail-2.png",
-      "/images/artworks/spring-dance-of-tree/detail-3.png",
-      "/images/artworks/spring-dance-of-tree/detail-4.png",
-      "/images/artworks/spring-dance-of-tree/interior-1.png",
-      "/images/artworks/spring-dance-of-tree/interior-2.png",
-      "/images/artworks/spring-dance-of-tree/main.png"
+      "/images/artworks/spring-dance-of-tree/detail-1.jpg",
+      "/images/artworks/spring-dance-of-tree/detail-2.jpg",
+      "/images/artworks/spring-dance-of-tree/detail-3.jpg",
+      "/images/artworks/spring-dance-of-tree/detail-4.jpg",
+      "/images/artworks/spring-dance-of-tree/interior-1.jpg",
+      "/images/artworks/spring-dance-of-tree/interior-2.jpg",
+      "/images/artworks/spring-dance-of-tree/main.jpg"
     ]
   },
   {
@@ -1405,7 +1405,7 @@ export const artworks: Artwork[] = [
       "de": "Stillleben mit Rüben auf Leinenstoff. Reichtum der roten Farbe und Textur des Stoffes.",
       "uk": "Натюрморт із буряком на лляній тканині. Багатство червоного кольору та фактура тканини."
     },
-    "image": "/images/artworks/red-beets-on-linen/main.png",
+    "image": "/images/artworks/red-beets-on-linen/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -1414,13 +1414,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 820",
     "images": [
-      "/images/artworks/red-beets-on-linen/detail-1.png",
-      "/images/artworks/red-beets-on-linen/detail-2.png",
-      "/images/artworks/red-beets-on-linen/detail-3.png",
-      "/images/artworks/red-beets-on-linen/detail-4.png",
-      "/images/artworks/red-beets-on-linen/interior-1.png",
-      "/images/artworks/red-beets-on-linen/interior-2.png",
-      "/images/artworks/red-beets-on-linen/main.png"
+      "/images/artworks/red-beets-on-linen/detail-1.jpg",
+      "/images/artworks/red-beets-on-linen/detail-2.jpg",
+      "/images/artworks/red-beets-on-linen/detail-3.jpg",
+      "/images/artworks/red-beets-on-linen/detail-4.jpg",
+      "/images/artworks/red-beets-on-linen/interior-1.jpg",
+      "/images/artworks/red-beets-on-linen/interior-2.jpg",
+      "/images/artworks/red-beets-on-linen/main.jpg"
     ]
   },
   {
@@ -1447,7 +1447,7 @@ export const artworks: Artwork[] = [
       "de": "Erkundung des Spiels von Licht und Schatten. Kontraste und Übergänge schaffen Raumtiefe.",
       "uk": "Дослідження гри світла та тіні. Контрасти та переходи створюють глибину простору."
     },
-    "image": "/images/artworks/in-the-light-and-shadow/main.png",
+    "image": "/images/artworks/in-the-light-and-shadow/main.jpg",
     "category": {
       "en": "Abstraction",
       "de": "Abstraktion",
@@ -1456,16 +1456,16 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 970",
     "images": [
-      "/images/artworks/in-the-light-and-shadow/detail-1.png",
-      "/images/artworks/in-the-light-and-shadow/detail-2.png",
-      "/images/artworks/in-the-light-and-shadow/detail-3.png",
-      "/images/artworks/in-the-light-and-shadow/detail-4.png",
-      "/images/artworks/in-the-light-and-shadow/detail-5.png",
-      "/images/artworks/in-the-light-and-shadow/detail-6.png",
-      "/images/artworks/in-the-light-and-shadow/detail-7.png",
-      "/images/artworks/in-the-light-and-shadow/interior-1.png",
-      "/images/artworks/in-the-light-and-shadow/interior-2.png",
-      "/images/artworks/in-the-light-and-shadow/main.png"
+      "/images/artworks/in-the-light-and-shadow/detail-1.jpg",
+      "/images/artworks/in-the-light-and-shadow/detail-2.jpg",
+      "/images/artworks/in-the-light-and-shadow/detail-3.jpg",
+      "/images/artworks/in-the-light-and-shadow/detail-4.jpg",
+      "/images/artworks/in-the-light-and-shadow/detail-5.jpg",
+      "/images/artworks/in-the-light-and-shadow/detail-6.jpg",
+      "/images/artworks/in-the-light-and-shadow/detail-7.jpg",
+      "/images/artworks/in-the-light-and-shadow/interior-1.jpg",
+      "/images/artworks/in-the-light-and-shadow/interior-2.jpg",
+      "/images/artworks/in-the-light-and-shadow/main.jpg"
     ]
   },
   {
@@ -1492,7 +1492,7 @@ export const artworks: Artwork[] = [
       "de": "Atmosphäre eines Wiener Kaffeehauses – Kaffee, Gebäck und gemütliches Gespräch. Die Seele Wiens in jedem Pinselstrich.",
       "uk": "Атмосфера віденської кав'ярні — кава, випічка та неспішна розмова. Душа Відня в кожному мазку."
     },
-    "image": "/images/artworks/viennese-cafe-afternoon/main.png",
+    "image": "/images/artworks/viennese-cafe-afternoon/main.jpg",
     "category": {
       "en": "Cityscape",
       "de": "Stadtbild",
@@ -1501,13 +1501,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 470",
     "images": [
-      "/images/artworks/viennese-cafe-afternoon/detail-1.png",
-      "/images/artworks/viennese-cafe-afternoon/detail-2.png",
-      "/images/artworks/viennese-cafe-afternoon/detail-3.png",
-      "/images/artworks/viennese-cafe-afternoon/interior-1.png",
-      "/images/artworks/viennese-cafe-afternoon/interior-2.png",
-      "/images/artworks/viennese-cafe-afternoon/interior-3.png",
-      "/images/artworks/viennese-cafe-afternoon/main.png"
+      "/images/artworks/viennese-cafe-afternoon/detail-1.jpg",
+      "/images/artworks/viennese-cafe-afternoon/detail-2.jpg",
+      "/images/artworks/viennese-cafe-afternoon/detail-3.jpg",
+      "/images/artworks/viennese-cafe-afternoon/interior-1.jpg",
+      "/images/artworks/viennese-cafe-afternoon/interior-2.jpg",
+      "/images/artworks/viennese-cafe-afternoon/interior-3.jpg",
+      "/images/artworks/viennese-cafe-afternoon/main.jpg"
     ]
   },
   {
@@ -1534,7 +1534,7 @@ export const artworks: Artwork[] = [
       "de": "Abendlandschaft des österreichischen Gaal. Ruhe der Dämmerung und Stille des Tales.",
       "uk": "Вечірній пейзаж австрійського Гааля. Спокій сутінків та тиша долини."
     },
-    "image": "/images/artworks/evening-over-gaal/main.png",
+    "image": "/images/artworks/evening-over-gaal/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1543,11 +1543,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 410",
     "images": [
-      "/images/artworks/evening-over-gaal/detail-1.png",
-      "/images/artworks/evening-over-gaal/detail-2.png",
-      "/images/artworks/evening-over-gaal/interior-1.png",
-      "/images/artworks/evening-over-gaal/interior-2.png",
-      "/images/artworks/evening-over-gaal/main.png"
+      "/images/artworks/evening-over-gaal/detail-1.jpg",
+      "/images/artworks/evening-over-gaal/detail-2.jpg",
+      "/images/artworks/evening-over-gaal/interior-1.jpg",
+      "/images/artworks/evening-over-gaal/interior-2.jpg",
+      "/images/artworks/evening-over-gaal/main.jpg"
     ]
   },
   {
@@ -1574,7 +1574,7 @@ export const artworks: Artwork[] = [
       "de": "Abstrakte Komposition in lila-grauen Tönen. Eleganz der Zurückhaltung.",
       "uk": "Абстрактна композиція у фіолетово-сірих тонах. Елегантність стриманості."
     },
-    "image": "/images/artworks/purple-and-grey/main.png",
+    "image": "/images/artworks/purple-and-grey/main.jpg",
     "category": {
       "en": "Abstraction",
       "de": "Abstraktion",
@@ -1583,12 +1583,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 920",
     "images": [
-      "/images/artworks/purple-and-grey/detail-1.png",
-      "/images/artworks/purple-and-grey/detail-2.png",
-      "/images/artworks/purple-and-grey/detail-3.png",
-      "/images/artworks/purple-and-grey/interior-1.png",
-      "/images/artworks/purple-and-grey/interior-2.png",
-      "/images/artworks/purple-and-grey/main.png"
+      "/images/artworks/purple-and-grey/detail-1.jpg",
+      "/images/artworks/purple-and-grey/detail-2.jpg",
+      "/images/artworks/purple-and-grey/detail-3.jpg",
+      "/images/artworks/purple-and-grey/interior-1.jpg",
+      "/images/artworks/purple-and-grey/interior-2.jpg",
+      "/images/artworks/purple-and-grey/main.jpg"
     ]
   },
   {
@@ -1615,7 +1615,7 @@ export const artworks: Artwork[] = [
       "de": "Das Gemälde ist inspiriert von den ruhigen Kanälen des Schlossparks Laxenburg bei Wien – einem Ort, den einst Kaiserin Elisabeth von Österreich (Sisi) schätzte.",
       "uk": "Картина натхненна тихими каналами парку Лаксенбург під Віднем — місцем, яке колись цінувала імператриця Єлизавета Австрійська (Сісі)."
     },
-    "image": "/images/artworks/where-time-rests/main.png",
+    "image": "/images/artworks/where-time-rests/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1624,14 +1624,14 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 980",
     "images": [
-      "/images/artworks/where-time-rests/detail-1.png",
-      "/images/artworks/where-time-rests/detail-2.png",
-      "/images/artworks/where-time-rests/detail-3.png",
-      "/images/artworks/where-time-rests/detail-4.png",
-      "/images/artworks/where-time-rests/detail-5.png",
-      "/images/artworks/where-time-rests/interior-1.png",
-      "/images/artworks/where-time-rests/interior-2.png",
-      "/images/artworks/where-time-rests/main.png"
+      "/images/artworks/where-time-rests/detail-1.jpg",
+      "/images/artworks/where-time-rests/detail-2.jpg",
+      "/images/artworks/where-time-rests/detail-3.jpg",
+      "/images/artworks/where-time-rests/detail-4.jpg",
+      "/images/artworks/where-time-rests/detail-5.jpg",
+      "/images/artworks/where-time-rests/interior-1.jpg",
+      "/images/artworks/where-time-rests/interior-2.jpg",
+      "/images/artworks/where-time-rests/main.jpg"
     ]
   },
   {
@@ -1658,7 +1658,7 @@ export const artworks: Artwork[] = [
       "de": "Die Küste von Mlini in Kroatien. Adriatisches Meer und mediterrane Vegetation.",
       "uk": "Узбережжя Мліні в Хорватії. Адріатичне море та середземноморська рослинність."
     },
-    "image": "/images/artworks/view-from-mlini/main.png",
+    "image": "/images/artworks/view-from-mlini/main.jpg",
     "category": {
       "en": "Seascape",
       "de": "Seestück",
@@ -1667,13 +1667,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 440",
     "images": [
-      "/images/artworks/view-from-mlini/detail-1.png",
-      "/images/artworks/view-from-mlini/detail-2.png",
-      "/images/artworks/view-from-mlini/detail-3.png",
-      "/images/artworks/view-from-mlini/detail-4.png",
-      "/images/artworks/view-from-mlini/interior-1.png",
-      "/images/artworks/view-from-mlini/interior-2.png",
-      "/images/artworks/view-from-mlini/main.png"
+      "/images/artworks/view-from-mlini/detail-1.jpg",
+      "/images/artworks/view-from-mlini/detail-2.jpg",
+      "/images/artworks/view-from-mlini/detail-3.jpg",
+      "/images/artworks/view-from-mlini/detail-4.jpg",
+      "/images/artworks/view-from-mlini/interior-1.jpg",
+      "/images/artworks/view-from-mlini/interior-2.jpg",
+      "/images/artworks/view-from-mlini/main.jpg"
     ]
   },
   {
@@ -1700,7 +1700,7 @@ export const artworks: Artwork[] = [
       "de": "Wolken, die über grüne Hügel ziehen. Leichtigkeit und Luftigkeit der Landschaft.",
       "uk": "Хмари, що пливуть над зеленими пагорбами. Легкість та повітряність пейзажу."
     },
-    "image": "/images/artworks/clouds-over-hills/main.png",
+    "image": "/images/artworks/clouds-over-hills/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1709,13 +1709,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 280",
     "images": [
-      "/images/artworks/clouds-over-hills/detail-1.png",
-      "/images/artworks/clouds-over-hills/detail-2.png",
-      "/images/artworks/clouds-over-hills/detail-3.png",
-      "/images/artworks/clouds-over-hills/detail-4.png",
-      "/images/artworks/clouds-over-hills/interior-1.png",
-      "/images/artworks/clouds-over-hills/interior-2.png",
-      "/images/artworks/clouds-over-hills/main.png"
+      "/images/artworks/clouds-over-hills/detail-1.jpg",
+      "/images/artworks/clouds-over-hills/detail-2.jpg",
+      "/images/artworks/clouds-over-hills/detail-3.jpg",
+      "/images/artworks/clouds-over-hills/detail-4.jpg",
+      "/images/artworks/clouds-over-hills/interior-1.jpg",
+      "/images/artworks/clouds-over-hills/interior-2.jpg",
+      "/images/artworks/clouds-over-hills/main.jpg"
     ]
   },
   {
@@ -1742,7 +1742,7 @@ export const artworks: Artwork[] = [
       "de": "Ort der inneren Ruhe. Meditationslandschaft voller Stille und Licht.",
       "uk": "Місце внутрішнього спокою. Пейзаж-медитація, наповнений тишею та світлом."
     },
-    "image": "/images/artworks/where-i-breathe-quietly/main.png",
+    "image": "/images/artworks/where-i-breathe-quietly/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1751,11 +1751,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 200",
     "images": [
-      "/images/artworks/where-i-breathe-quietly/detail-1.png",
-      "/images/artworks/where-i-breathe-quietly/detail-2.png",
-      "/images/artworks/where-i-breathe-quietly/interior-1.png",
-      "/images/artworks/where-i-breathe-quietly/interior-2.png",
-      "/images/artworks/where-i-breathe-quietly/main.png"
+      "/images/artworks/where-i-breathe-quietly/detail-1.jpg",
+      "/images/artworks/where-i-breathe-quietly/detail-2.jpg",
+      "/images/artworks/where-i-breathe-quietly/interior-1.jpg",
+      "/images/artworks/where-i-breathe-quietly/interior-2.jpg",
+      "/images/artworks/where-i-breathe-quietly/main.jpg"
     ]
   },
   {
@@ -1782,7 +1782,7 @@ export const artworks: Artwork[] = [
       "de": "Schneebedeckte Gipfel der Alpen. Majestät der winternatur und Reinheit der Bergluft.",
       "uk": "Засніжені вершини Альп. Велич зимової природи та чистота гірського повітря."
     },
-    "image": "/images/artworks/winter-in-alps/main.png",
+    "image": "/images/artworks/winter-in-alps/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1791,13 +1791,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1 100",
     "images": [
-      "/images/artworks/winter-in-alps/detail-1.png",
-      "/images/artworks/winter-in-alps/detail-2.png",
-      "/images/artworks/winter-in-alps/detail-3.png",
-      "/images/artworks/winter-in-alps/interior-1.png",
-      "/images/artworks/winter-in-alps/interior-2.png",
-      "/images/artworks/winter-in-alps/interior-3.png",
-      "/images/artworks/winter-in-alps/main.png"
+      "/images/artworks/winter-in-alps/detail-1.jpg",
+      "/images/artworks/winter-in-alps/detail-2.jpg",
+      "/images/artworks/winter-in-alps/detail-3.jpg",
+      "/images/artworks/winter-in-alps/interior-1.jpg",
+      "/images/artworks/winter-in-alps/interior-2.jpg",
+      "/images/artworks/winter-in-alps/interior-3.jpg",
+      "/images/artworks/winter-in-alps/main.jpg"
     ]
   },
   {
@@ -1824,7 +1824,7 @@ export const artworks: Artwork[] = [
       "de": "Morgenlicht des Mittelmeers. Die Weichheit der Gouache vermittelt warme Töne der Morgendämmerung.",
       "uk": "Ранкове світло Середземномор'я. М'якість гуаші передає теплі тони світанку."
     },
-    "image": "/images/artworks/mediterranean-morning-light/main.png",
+    "image": "/images/artworks/mediterranean-morning-light/main.jpg",
     "category": {
       "en": "Seascape",
       "de": "Seestück",
@@ -1833,10 +1833,10 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 280",
     "images": [
-      "/images/artworks/mediterranean-morning-light/detail-1.png",
-      "/images/artworks/mediterranean-morning-light/interior-1.png",
-      "/images/artworks/mediterranean-morning-light/interior-2.png",
-      "/images/artworks/mediterranean-morning-light/main.png"
+      "/images/artworks/mediterranean-morning-light/detail-1.jpg",
+      "/images/artworks/mediterranean-morning-light/interior-1.jpg",
+      "/images/artworks/mediterranean-morning-light/interior-2.jpg",
+      "/images/artworks/mediterranean-morning-light/main.jpg"
     ]
   },
   {
@@ -1863,7 +1863,7 @@ export const artworks: Artwork[] = [
       "de": "Kulinarisches Stillleben. Frische von Spargel und Leuchtkraft von Bärlauch.",
       "uk": "Кулінарний натюрморт. Свіжість спаржі та яскравість дикого часнику."
     },
-    "image": "/images/artworks/asparagus-on-wild-garlic/main.png",
+    "image": "/images/artworks/asparagus-on-wild-garlic/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -1872,13 +1872,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 700",
     "images": [
-      "/images/artworks/asparagus-on-wild-garlic/detail-1.png",
-      "/images/artworks/asparagus-on-wild-garlic/detail-2.png",
-      "/images/artworks/asparagus-on-wild-garlic/detail-3.png",
-      "/images/artworks/asparagus-on-wild-garlic/detail-4.png",
-      "/images/artworks/asparagus-on-wild-garlic/interior-1.png",
-      "/images/artworks/asparagus-on-wild-garlic/interior-2.png",
-      "/images/artworks/asparagus-on-wild-garlic/main.png"
+      "/images/artworks/asparagus-on-wild-garlic/detail-1.jpg",
+      "/images/artworks/asparagus-on-wild-garlic/detail-2.jpg",
+      "/images/artworks/asparagus-on-wild-garlic/detail-3.jpg",
+      "/images/artworks/asparagus-on-wild-garlic/detail-4.jpg",
+      "/images/artworks/asparagus-on-wild-garlic/interior-1.jpg",
+      "/images/artworks/asparagus-on-wild-garlic/interior-2.jpg",
+      "/images/artworks/asparagus-on-wild-garlic/main.jpg"
     ]
   },
   {
@@ -1905,7 +1905,7 @@ export const artworks: Artwork[] = [
       "de": "Winterlicher Minimalismus. Schatten auf einer schneeweißen Leinwand – die Poesie des Winters.",
       "uk": "Зимовий мінімалізм. Тіні на білосніжному полотні — поезія зими."
     },
-    "image": "/images/artworks/two-shadows-on-snow/main.png",
+    "image": "/images/artworks/two-shadows-on-snow/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1914,12 +1914,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 280",
     "images": [
-      "/images/artworks/two-shadows-on-snow/detail-1.png",
-      "/images/artworks/two-shadows-on-snow/detail-2.png",
-      "/images/artworks/two-shadows-on-snow/detail-3.png",
-      "/images/artworks/two-shadows-on-snow/interior-1.png",
-      "/images/artworks/two-shadows-on-snow/interior-2.png",
-      "/images/artworks/two-shadows-on-snow/main.png"
+      "/images/artworks/two-shadows-on-snow/detail-1.jpg",
+      "/images/artworks/two-shadows-on-snow/detail-2.jpg",
+      "/images/artworks/two-shadows-on-snow/detail-3.jpg",
+      "/images/artworks/two-shadows-on-snow/interior-1.jpg",
+      "/images/artworks/two-shadows-on-snow/interior-2.jpg",
+      "/images/artworks/two-shadows-on-snow/main.jpg"
     ]
   },
   {
@@ -1946,7 +1946,7 @@ export const artworks: Artwork[] = [
       "de": "Dieses zarte Ölgemälde fängt die zeitlose Schönheit blühender Hortensien in sanften Rosa- und Lilatönen ein. Die texturierte Pinselführung auf natürlicher Leinenleinwand schafft eine friedliche Eleganz.",
       "uk": "Ніжний олійний живопис, що втілює вічну красу квітучих гортензій у м'яких рожевих та лілових тонах. Фактурні мазки на натуральному лляному полотні створюють атмосферу спокою та елегантності."
     },
-    "image": "/images/artworks/hydrangea-stillness/main.png",
+    "image": "/images/artworks/hydrangea-stillness/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -1955,14 +1955,14 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 560",
     "images": [
-      "/images/artworks/hydrangea-stillness/detail-1.png",
-      "/images/artworks/hydrangea-stillness/detail-2.png",
-      "/images/artworks/hydrangea-stillness/detail-3.png",
-      "/images/artworks/hydrangea-stillness/detail-4.png",
-      "/images/artworks/hydrangea-stillness/detail-5.png",
-      "/images/artworks/hydrangea-stillness/interior-1.png",
-      "/images/artworks/hydrangea-stillness/interior-2.png",
-      "/images/artworks/hydrangea-stillness/main.png"
+      "/images/artworks/hydrangea-stillness/detail-1.jpg",
+      "/images/artworks/hydrangea-stillness/detail-2.jpg",
+      "/images/artworks/hydrangea-stillness/detail-3.jpg",
+      "/images/artworks/hydrangea-stillness/detail-4.jpg",
+      "/images/artworks/hydrangea-stillness/detail-5.jpg",
+      "/images/artworks/hydrangea-stillness/interior-1.jpg",
+      "/images/artworks/hydrangea-stillness/interior-2.jpg",
+      "/images/artworks/hydrangea-stillness/main.jpg"
     ]
   },
   {
@@ -1989,7 +1989,7 @@ export const artworks: Artwork[] = [
       "de": "Dieses Gemälde handelt von der Stadt Trogir in Kroatien. Es fängt einen wunderschönen Morgenblick auf die Stadt nach dem Regen ein, wobei das Morgenlicht auf eine schmale Gasse и weiße Steinstühle in der Nähe eines Cafés fällt.",
       "uk": "Картина присвячена місту Трогір у Хорватії. Вона запечатліла прекрасний ранковий вид міста після дощу, зі світлом, що падає на вузьку вуличку та білі кам'яні стільці біля кафе."
     },
-    "image": "/images/artworks/morning-in-trogir/main.png",
+    "image": "/images/artworks/morning-in-trogir/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -1998,12 +1998,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1680",
     "images": [
-      "/images/artworks/morning-in-trogir/detail-1.png",
-      "/images/artworks/morning-in-trogir/detail-2.png",
-      "/images/artworks/morning-in-trogir/detail-3.png",
-      "/images/artworks/morning-in-trogir/interior-1.png",
-      "/images/artworks/morning-in-trogir/interior-2.png",
-      "/images/artworks/morning-in-trogir/main.png"
+      "/images/artworks/morning-in-trogir/detail-1.jpg",
+      "/images/artworks/morning-in-trogir/detail-2.jpg",
+      "/images/artworks/morning-in-trogir/detail-3.jpg",
+      "/images/artworks/morning-in-trogir/interior-1.jpg",
+      "/images/artworks/morning-in-trogir/interior-2.jpg",
+      "/images/artworks/morning-in-trogir/main.jpg"
     ]
   },
   {
@@ -2030,7 +2030,7 @@ export const artworks: Artwork[] = [
       "de": "Zeigt einen Baum in der Nähe des Wiener Rathauses während der Weihnachtszeit, umgeben vom Glanz der berühmten Weihnachtsmärkte.",
       "uk": "Зображує дерево біля ратуші у Відні під час різдвяного сезону, оточене сяйвом знаменитих святкових ринків."
     },
-    "image": "/images/artworks/evening-light-at-christmas/main.png",
+    "image": "/images/artworks/evening-light-at-christmas/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -2039,13 +2039,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 490",
     "images": [
-      "/images/artworks/evening-light-at-christmas/detail-1.png",
-      "/images/artworks/evening-light-at-christmas/detail-2.png",
-      "/images/artworks/evening-light-at-christmas/detail-3.png",
-      "/images/artworks/evening-light-at-christmas/interior-1.png",
-      "/images/artworks/evening-light-at-christmas/interior-2.png",
-      "/images/artworks/evening-light-at-christmas/interior-3.png",
-      "/images/artworks/evening-light-at-christmas/main.png"
+      "/images/artworks/evening-light-at-christmas/detail-1.jpg",
+      "/images/artworks/evening-light-at-christmas/detail-2.jpg",
+      "/images/artworks/evening-light-at-christmas/detail-3.jpg",
+      "/images/artworks/evening-light-at-christmas/detail-4.jpg",
+      "/images/artworks/evening-light-at-christmas/interior-1.jpg",
+      "/images/artworks/evening-light-at-christmas/interior-2.jpg",
+      "/images/artworks/evening-light-at-christmas/main.jpg"
     ]
   },
   {
@@ -2072,7 +2072,7 @@ export const artworks: Artwork[] = [
       "de": "Ein Zweig mit herbstlichen Paradiesäpfeln auf einem braun-grauen Hintergrund aus unbemalter Leinwand.",
       "uk": "Гілка з осінніми райськими яблуками на коричнево-сірому фоні незафарбованого полотна."
     },
-    "image": "/images/artworks/paradise-apples/main.png",
+    "image": "/images/artworks/paradise-apples/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -2081,14 +2081,14 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 450",
     "images": [
-      "/images/artworks/paradise-apples/detail-1.png",
-      "/images/artworks/paradise-apples/detail-2.png",
-      "/images/artworks/paradise-apples/detail-3.png",
-      "/images/artworks/paradise-apples/detail-4.png",
-      "/images/artworks/paradise-apples/detail-5.png",
-      "/images/artworks/paradise-apples/interior-1.png",
-      "/images/artworks/paradise-apples/interior-2.png",
-      "/images/artworks/paradise-apples/main.png"
+      "/images/artworks/paradise-apples/detail-1.jpg",
+      "/images/artworks/paradise-apples/detail-2.jpg",
+      "/images/artworks/paradise-apples/detail-3.jpg",
+      "/images/artworks/paradise-apples/detail-4.jpg",
+      "/images/artworks/paradise-apples/detail-5.jpg",
+      "/images/artworks/paradise-apples/interior-1.jpg",
+      "/images/artworks/paradise-apples/interior-2.jpg",
+      "/images/artworks/paradise-apples/main.jpg"
     ]
   },
   {
@@ -2115,7 +2115,7 @@ export const artworks: Artwork[] = [
       "de": "Eine Landschaft, die ein tiefes Gefühl von Ruhe und der Weite der Natur vermittelt. Ein Ort der Kraft und des inneren Friedens.",
       "uk": "Пейзаж, що передає глибоке почуття умиротворення та простору природи. Місце сили та внутрішнього спокою."
     },
-    "image": "/images/artworks/where-i-breathe-more-quietly/main.png",
+    "image": "/images/artworks/where-i-breathe-more-quietly/main.jpg",
     "category": {
       "en": "Landscape",
       "de": "Landschaft",
@@ -2124,11 +2124,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 2100",
     "images": [
-      "/images/artworks/where-i-breathe-more-quietly/detail-1.png",
-      "/images/artworks/where-i-breathe-more-quietly/detail-2.png",
-      "/images/artworks/where-i-breathe-more-quietly/interior-1.png",
-      "/images/artworks/where-i-breathe-more-quietly/interior-2.png",
-      "/images/artworks/where-i-breathe-more-quietly/main.png"
+      "/images/artworks/where-i-breathe-more-quietly/detail-1.jpg",
+      "/images/artworks/where-i-breathe-more-quietly/detail-2.jpg",
+      "/images/artworks/where-i-breathe-more-quietly/interior-1.jpg",
+      "/images/artworks/where-i-breathe-more-quietly/interior-2.jpg",
+      "/images/artworks/where-i-breathe-more-quietly/main.jpg"
     ]
   },
   {
@@ -2155,7 +2155,7 @@ export const artworks: Artwork[] = [
       "de": "Ein Stillleben, das Schönheit in Stille und Einsamkeit erkundet. Dezente Lichtspiele betonen die Zerbrechlichkeit des Augenblicks.",
       "uk": "Натюрморт, що досліджує красу в тиші та самотності. Тонка гра світла підкреслює крихкість моменту."
     },
-    "image": "/images/artworks/delicate-solitude/main.png",
+    "image": "/images/artworks/delicate-solitude/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -2164,13 +2164,13 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 1200",
     "images": [
-      "/images/artworks/delicate-solitude/detail-1.png",
-      "/images/artworks/delicate-solitude/detail-2.png",
-      "/images/artworks/delicate-solitude/detail-3.png",
-      "/images/artworks/delicate-solitude/detail-4.png",
-      "/images/artworks/delicate-solitude/interior-1.png",
-      "/images/artworks/delicate-solitude/interior-2.png",
-      "/images/artworks/delicate-solitude/main.png"
+      "/images/artworks/delicate-solitude/detail-1.jpg",
+      "/images/artworks/delicate-solitude/detail-2.jpg",
+      "/images/artworks/delicate-solitude/detail-3.jpg",
+      "/images/artworks/delicate-solitude/detail-4.jpg",
+      "/images/artworks/delicate-solitude/interior-1.jpg",
+      "/images/artworks/delicate-solitude/interior-2.jpg",
+      "/images/artworks/delicate-solitude/main.jpg"
     ]
   },
   {
@@ -2197,7 +2197,7 @@ export const artworks: Artwork[] = [
       "de": "Eine Genreszene mit Katzen, voller Leben und Bewegung. Verspielte Stimmung und die Wärme häuslicher Gemütlichkeit.",
       "uk": "Жанрова сцена з котами, сповнена життям та рухом. Грайливий настрій та тепло домашнього затишку."
     },
-    "image": "/images/artworks/cats-patrol/main.png",
+    "image": "/images/artworks/cats-patrol/main.jpg",
     "category": {
       "en": "Genre",
       "de": "Genremalerei",
@@ -2206,14 +2206,14 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 850",
     "images": [
-      "/images/artworks/cats-patrol/detail-1.png",
-      "/images/artworks/cats-patrol/detail-2.png",
-      "/images/artworks/cats-patrol/detail-3.png",
-      "/images/artworks/cats-patrol/detail-4.png",
-      "/images/artworks/cats-patrol/detail-5.png",
-      "/images/artworks/cats-patrol/interior-1.png",
-      "/images/artworks/cats-patrol/interior-2.png",
-      "/images/artworks/cats-patrol/main.png"
+      "/images/artworks/cats-patrol/detail-1.jpg",
+      "/images/artworks/cats-patrol/detail-2.jpg",
+      "/images/artworks/cats-patrol/detail-3.jpg",
+      "/images/artworks/cats-patrol/detail-4.jpg",
+      "/images/artworks/cats-patrol/detail-5.jpg",
+      "/images/artworks/cats-patrol/interior-1.jpg",
+      "/images/artworks/cats-patrol/interior-2.jpg",
+      "/images/artworks/cats-patrol/main.jpg"
     ]
   },
   {
@@ -2240,7 +2240,7 @@ export const artworks: Artwork[] = [
       "de": "Ein Stillleben mit Sommerfrüchten, das vor Wärme und Licht atmet. Ein Fest der Farben und Vitalität.",
       "uk": "Натюрморт з літніми плодами, що дихає теплом та світлом. Свято кольору та життєвої сили."
     },
-    "image": "/images/artworks/juicy-summer/main.png",
+    "image": "/images/artworks/juicy-summer/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -2249,12 +2249,12 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 750",
     "images": [
-      "/images/artworks/juicy-summer/detail-1.png",
-      "/images/artworks/juicy-summer/detail-2.png",
-      "/images/artworks/juicy-summer/detail-3.png",
-      "/images/artworks/juicy-summer/interior-1.png",
-      "/images/artworks/juicy-summer/interior-2.png",
-      "/images/artworks/juicy-summer/main.png"
+      "/images/artworks/juicy-summer/detail-1.jpg",
+      "/images/artworks/juicy-summer/detail-2.jpg",
+      "/images/artworks/juicy-summer/detail-3.jpg",
+      "/images/artworks/juicy-summer/interior-1.jpg",
+      "/images/artworks/juicy-summer/interior-2.jpg",
+      "/images/artworks/juicy-summer/main.jpg"
     ]
   },
   {
@@ -2281,7 +2281,7 @@ export const artworks: Artwork[] = [
       "de": "Ein Stillleben, das einfache natürliche Materialien und Düfte feiert. Verbindung von Tontextur und Lavendelweichheit.",
       "uk": "Натюрморт, що оспівує прості природні матеріали та аромати. Поєднання текстури глини та м'якості лаванди."
     },
-    "image": "/images/artworks/lavender-and-clay/main.png",
+    "image": "/images/artworks/lavender-and-clay/main.jpg",
     "category": {
       "en": "Still Life",
       "de": "Stilleben",
@@ -2290,11 +2290,11 @@ export const artworks: Artwork[] = [
     },
     "price": "EUR 650",
     "images": [
-      "/images/artworks/lavender-and-clay/detail-1.png",
-      "/images/artworks/lavender-and-clay/detail-2.png",
-      "/images/artworks/lavender-and-clay/interior-1.png",
-      "/images/artworks/lavender-and-clay/interior-2.png",
-      "/images/artworks/lavender-and-clay/main.png"
+      "/images/artworks/lavender-and-clay/detail-1.jpg",
+      "/images/artworks/lavender-and-clay/detail-2.jpg",
+      "/images/artworks/lavender-and-clay/interior-1.jpg",
+      "/images/artworks/lavender-and-clay/interior-2.jpg",
+      "/images/artworks/lavender-and-clay/main.jpg"
     ]
   },
   {
@@ -2321,16 +2321,16 @@ export const artworks: Artwork[] = [
       "de": "Ein kraftvolles Seestück, das die Energie des Ozeans Momente vor der Ankunft einer neuen Welle einfängt. Ein großformatiges Werk voller Dynamik und Licht.",
       "uk": "Потужний морський пейзаж, що фіксує енергію океану за мить до приходу нової хвилі. Масштабна робота, сповнена динаміки та світла."
     },
-    "image": "/images/artworks/before-the-next-wave/main.png",
+    "image": "/images/artworks/before-the-next-wave/main.jpg",
     "images": [
-      "/images/artworks/before-the-next-wave/main.png",
-      "/images/artworks/before-the-next-wave/detail-1.png",
-      "/images/artworks/before-the-next-wave/detail-2.png",
-      "/images/artworks/before-the-next-wave/detail-3.png",
-      "/images/artworks/before-the-next-wave/detail-4.png",
-      "/images/artworks/before-the-next-wave/interior-1.png",
-      "/images/artworks/before-the-next-wave/interior-2.png"
-],
+      "/images/artworks/before-the-next-wave/main.jpg",
+      "/images/artworks/before-the-next-wave/detail-1.jpg",
+      "/images/artworks/before-the-next-wave/detail-2.jpg",
+      "/images/artworks/before-the-next-wave/detail-3.jpg",
+      "/images/artworks/before-the-next-wave/detail-4.jpg",
+      "/images/artworks/before-the-next-wave/interior-1.jpg",
+      "/images/artworks/before-the-next-wave/interior-2.jpg"
+    ],
     "category": {
       "en": "Seascape",
       "de": "Meereslandschaft",
@@ -2363,15 +2363,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Sky Above the Quiet Land' by Iryna Barabash (2025) : Painting Oil on Canvas - 28x35cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Sky Above the Quiet Land' by Iryna Barabash (2025) : Painting Oil on Canvas - 28x35cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/sky-above-the-quiet-land/main.png",
+    "image": "/images/artworks/sky-above-the-quiet-land/main.jpg",
     "images": [
-      "/images/artworks/sky-above-the-quiet-land/detail-1.png",
-      "/images/artworks/sky-above-the-quiet-land/detail-2.png",
-      "/images/artworks/sky-above-the-quiet-land/detail-3.png",
-      "/images/artworks/sky-above-the-quiet-land/interior-1.png",
-      "/images/artworks/sky-above-the-quiet-land/interior-2.png",
-      "/images/artworks/sky-above-the-quiet-land/interior-3.png",
-      "/images/artworks/sky-above-the-quiet-land/main.png"
+      "/images/artworks/sky-above-the-quiet-land/detail-1.jpg",
+      "/images/artworks/sky-above-the-quiet-land/detail-2.jpg",
+      "/images/artworks/sky-above-the-quiet-land/detail-3.jpg",
+      "/images/artworks/sky-above-the-quiet-land/interior-1.jpg",
+      "/images/artworks/sky-above-the-quiet-land/interior-2.jpg",
+      "/images/artworks/sky-above-the-quiet-land/interior-3.jpg",
+      "/images/artworks/sky-above-the-quiet-land/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2405,15 +2405,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Dont push the horses' by Iryna Barabash (2025) : Painting Oil on Canvas - 70x80cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Dont push the horses' by Iryna Barabash (2025) : Painting Oil on Canvas - 70x80cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/dont-push-the-horses/main.png",
+    "image": "/images/artworks/dont-push-the-horses/main.jpg",
     "images": [
-      "/images/artworks/dont-push-the-horses/detail-1.png",
-      "/images/artworks/dont-push-the-horses/detail-2.png",
-      "/images/artworks/dont-push-the-horses/detail-3.png",
-      "/images/artworks/dont-push-the-horses/interior-1.png",
-      "/images/artworks/dont-push-the-horses/interior-2.png",
-      "/images/artworks/dont-push-the-horses/interior-3.png",
-      "/images/artworks/dont-push-the-horses/main.png"
+      "/images/artworks/dont-push-the-horses/detail-1.jpg",
+      "/images/artworks/dont-push-the-horses/detail-2.jpg",
+      "/images/artworks/dont-push-the-horses/detail-3.jpg",
+      "/images/artworks/dont-push-the-horses/interior-1.jpg",
+      "/images/artworks/dont-push-the-horses/interior-2.jpg",
+      "/images/artworks/dont-push-the-horses/interior-3.jpg",
+      "/images/artworks/dont-push-the-horses/main.jpg"
     ],
     "category": {
       "en": "Animal",
@@ -2447,15 +2447,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Toward the Mountains' by Iryna Barabash (2026) : Painting Oil on Canvas - 70x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Toward the Mountains' by Iryna Barabash (2026) : Painting Oil on Canvas - 70x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/toward-the-mountains/main.png",
+    "image": "/images/artworks/toward-the-mountains/main.jpg",
     "images": [
-      "/images/artworks/toward-the-mountains/detail-1.png",
-      "/images/artworks/toward-the-mountains/detail-2.png",
-      "/images/artworks/toward-the-mountains/detail-3.png",
-      "/images/artworks/toward-the-mountains/interior-1.png",
-      "/images/artworks/toward-the-mountains/interior-2.png",
-      "/images/artworks/toward-the-mountains/interior-3.png",
-      "/images/artworks/toward-the-mountains/main.png"
+      "/images/artworks/toward-the-mountains/detail-1.jpg",
+      "/images/artworks/toward-the-mountains/detail-2.jpg",
+      "/images/artworks/toward-the-mountains/detail-3.jpg",
+      "/images/artworks/toward-the-mountains/interior-1.jpg",
+      "/images/artworks/toward-the-mountains/interior-2.jpg",
+      "/images/artworks/toward-the-mountains/interior-3.jpg",
+      "/images/artworks/toward-the-mountains/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2489,15 +2489,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Sea light and silence' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Sea light and silence' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/sea-light-and-silence/main.png",
+    "image": "/images/artworks/sea-light-and-silence/main.jpg",
     "images": [
-      "/images/artworks/sea-light-and-silence/detail-1.png",
-      "/images/artworks/sea-light-and-silence/detail-2.png",
-      "/images/artworks/sea-light-and-silence/detail-3.png",
-      "/images/artworks/sea-light-and-silence/interior-1.png",
-      "/images/artworks/sea-light-and-silence/interior-2.png",
-      "/images/artworks/sea-light-and-silence/interior-3.png",
-      "/images/artworks/sea-light-and-silence/main.png"
+      "/images/artworks/sea-light-and-silence/detail-1.jpg",
+      "/images/artworks/sea-light-and-silence/detail-2.jpg",
+      "/images/artworks/sea-light-and-silence/detail-3.jpg",
+      "/images/artworks/sea-light-and-silence/interior-1.jpg",
+      "/images/artworks/sea-light-and-silence/interior-2.jpg",
+      "/images/artworks/sea-light-and-silence/interior-3.jpg",
+      "/images/artworks/sea-light-and-silence/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2531,15 +2531,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'The Silent Encounter' by Iryna Barabash (2026) : Painting Oil on Canvas - 70x60cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'The Silent Encounter' by Iryna Barabash (2026) : Painting Oil on Canvas - 70x60cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/the-silent-encounter/main.png",
+    "image": "/images/artworks/the-silent-encounter/main.jpg",
     "images": [
-      "/images/artworks/the-silent-encounter/detail-1.png",
-      "/images/artworks/the-silent-encounter/detail-2.png",
-      "/images/artworks/the-silent-encounter/detail-3.png",
-      "/images/artworks/the-silent-encounter/interior-1.png",
-      "/images/artworks/the-silent-encounter/interior-2.png",
-      "/images/artworks/the-silent-encounter/interior-3.png",
-      "/images/artworks/the-silent-encounter/main.png"
+      "/images/artworks/the-silent-encounter/detail-1.jpg",
+      "/images/artworks/the-silent-encounter/detail-2.jpg",
+      "/images/artworks/the-silent-encounter/detail-3.jpg",
+      "/images/artworks/the-silent-encounter/interior-1.jpg",
+      "/images/artworks/the-silent-encounter/interior-2.jpg",
+      "/images/artworks/the-silent-encounter/interior-3.jpg",
+      "/images/artworks/the-silent-encounter/main.jpg"
     ],
     "category": {
       "en": "Animal",
@@ -2573,15 +2573,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Fanningberg 6' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Fanningberg 6' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/fanningberg-6/main.png",
+    "image": "/images/artworks/fanningberg-6/main.jpg",
     "images": [
-      "/images/artworks/fanningberg-6/detail-1.png",
-      "/images/artworks/fanningberg-6/detail-2.png",
-      "/images/artworks/fanningberg-6/detail-3.png",
-      "/images/artworks/fanningberg-6/interior-1.png",
-      "/images/artworks/fanningberg-6/interior-2.png",
-      "/images/artworks/fanningberg-6/interior-3.png",
-      "/images/artworks/fanningberg-6/main.png"
+      "/images/artworks/fanningberg-6/detail-1.jpg",
+      "/images/artworks/fanningberg-6/detail-2.jpg",
+      "/images/artworks/fanningberg-6/detail-3.jpg",
+      "/images/artworks/fanningberg-6/interior-1.jpg",
+      "/images/artworks/fanningberg-6/interior-2.jpg",
+      "/images/artworks/fanningberg-6/interior-3.jpg",
+      "/images/artworks/fanningberg-6/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2615,15 +2615,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Lazy Hours' by Iryna Barabash (2025) : Painting Oil on Canvas - 30x25cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Lazy Hours' by Iryna Barabash (2025) : Painting Oil on Canvas - 30x25cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/lazy-hours/main.png",
+    "image": "/images/artworks/lazy-hours/main.jpg",
     "images": [
-      "/images/artworks/lazy-hours/detail-1.png",
-      "/images/artworks/lazy-hours/detail-2.png",
-      "/images/artworks/lazy-hours/detail-3.png",
-      "/images/artworks/lazy-hours/interior-1.png",
-      "/images/artworks/lazy-hours/interior-2.png",
-      "/images/artworks/lazy-hours/interior-3.png",
-      "/images/artworks/lazy-hours/main.png"
+      "/images/artworks/lazy-hours/detail-1.jpg",
+      "/images/artworks/lazy-hours/detail-2.jpg",
+      "/images/artworks/lazy-hours/detail-3.jpg",
+      "/images/artworks/lazy-hours/interior-1.jpg",
+      "/images/artworks/lazy-hours/interior-2.jpg",
+      "/images/artworks/lazy-hours/interior-3.jpg",
+      "/images/artworks/lazy-hours/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2657,15 +2657,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Finally, a rest' by Iryna Barabash (2022) : Painting Acrylic on Canvas - 40x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Finally, a rest' by Iryna Barabash (2022) : Painting Acrylic on Canvas - 40x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/finally,-a-rest/main.png",
+    "image": "/images/artworks/finally,-a-rest/main.jpg",
     "images": [
-      "/images/artworks/finally,-a-rest/detail-1.png",
-      "/images/artworks/finally,-a-rest/detail-2.png",
-      "/images/artworks/finally,-a-rest/detail-3.png",
-      "/images/artworks/finally,-a-rest/interior-1.png",
-      "/images/artworks/finally,-a-rest/interior-2.png",
-      "/images/artworks/finally,-a-rest/interior-3.png",
-      "/images/artworks/finally,-a-rest/main.png"
+      "/images/artworks/finally,-a-rest/detail-1.jpg",
+      "/images/artworks/finally,-a-rest/detail-2.jpg",
+      "/images/artworks/finally,-a-rest/detail-3.jpg",
+      "/images/artworks/finally,-a-rest/interior-1.jpg",
+      "/images/artworks/finally,-a-rest/interior-2.jpg",
+      "/images/artworks/finally,-a-rest/interior-3.jpg",
+      "/images/artworks/finally,-a-rest/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2699,15 +2699,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Fanningberg 4' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Fanningberg 4' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/fanningberg-4/main.png",
+    "image": "/images/artworks/fanningberg-4/main.jpg",
     "images": [
-      "/images/artworks/fanningberg-4/detail-1.png",
-      "/images/artworks/fanningberg-4/detail-2.png",
-      "/images/artworks/fanningberg-4/detail-3.png",
-      "/images/artworks/fanningberg-4/interior-1.png",
-      "/images/artworks/fanningberg-4/interior-2.png",
-      "/images/artworks/fanningberg-4/interior-3.png",
-      "/images/artworks/fanningberg-4/main.png"
+      "/images/artworks/fanningberg-4/detail-1.jpg",
+      "/images/artworks/fanningberg-4/detail-2.jpg",
+      "/images/artworks/fanningberg-4/detail-3.jpg",
+      "/images/artworks/fanningberg-4/interior-1.jpg",
+      "/images/artworks/fanningberg-4/interior-2.jpg",
+      "/images/artworks/fanningberg-4/interior-3.jpg",
+      "/images/artworks/fanningberg-4/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2741,15 +2741,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Two Shadows on the Snow' by Iryna Barabash (2025) : Painting Gouache on Paper - 31x23cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Two Shadows on the Snow' by Iryna Barabash (2025) : Painting Gouache on Paper - 31x23cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/two-shadows-on-the-snow/main.png",
+    "image": "/images/artworks/two-shadows-on-the-snow/main.jpg",
     "images": [
-      "/images/artworks/two-shadows-on-the-snow/detail-1.png",
-      "/images/artworks/two-shadows-on-the-snow/detail-2.png",
-      "/images/artworks/two-shadows-on-the-snow/detail-3.png",
-      "/images/artworks/two-shadows-on-the-snow/interior-1.png",
-      "/images/artworks/two-shadows-on-the-snow/interior-2.png",
-      "/images/artworks/two-shadows-on-the-snow/interior-3.png",
-      "/images/artworks/two-shadows-on-the-snow/main.png"
+      "/images/artworks/two-shadows-on-the-snow/detail-1.jpg",
+      "/images/artworks/two-shadows-on-the-snow/detail-2.jpg",
+      "/images/artworks/two-shadows-on-the-snow/detail-3.jpg",
+      "/images/artworks/two-shadows-on-the-snow/interior-1.jpg",
+      "/images/artworks/two-shadows-on-the-snow/interior-2.jpg",
+      "/images/artworks/two-shadows-on-the-snow/interior-3.jpg",
+      "/images/artworks/two-shadows-on-the-snow/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2783,15 +2783,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Two Skis' by Iryna Barabash (2025) : Painting Gouache on Paper - 31x23cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Two Skis' by Iryna Barabash (2025) : Painting Gouache on Paper - 31x23cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/two-skis/main.png",
+    "image": "/images/artworks/two-skis/main.jpg",
     "images": [
-      "/images/artworks/two-skis/detail-1.png",
-      "/images/artworks/two-skis/detail-2.png",
-      "/images/artworks/two-skis/detail-3.png",
-      "/images/artworks/two-skis/interior-1.png",
-      "/images/artworks/two-skis/interior-2.png",
-      "/images/artworks/two-skis/interior-3.png",
-      "/images/artworks/two-skis/main.png"
+      "/images/artworks/two-skis/detail-1.jpg",
+      "/images/artworks/two-skis/detail-2.jpg",
+      "/images/artworks/two-skis/detail-3.jpg",
+      "/images/artworks/two-skis/interior-1.jpg",
+      "/images/artworks/two-skis/interior-2.jpg",
+      "/images/artworks/two-skis/interior-3.jpg",
+      "/images/artworks/two-skis/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2825,15 +2825,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Unbroken Bloom' by Iryna Barabash (2026) : Painting Oil on Cardboard - 60x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Unbroken Bloom' by Iryna Barabash (2026) : Painting Oil on Cardboard - 60x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/unbroken-bloom/main.png",
+    "image": "/images/artworks/unbroken-bloom/main.jpg",
     "images": [
-      "/images/artworks/unbroken-bloom/detail-1.png",
-      "/images/artworks/unbroken-bloom/detail-2.png",
-      "/images/artworks/unbroken-bloom/detail-3.png",
-      "/images/artworks/unbroken-bloom/interior-1.png",
-      "/images/artworks/unbroken-bloom/interior-2.png",
-      "/images/artworks/unbroken-bloom/interior-3.png",
-      "/images/artworks/unbroken-bloom/main.png"
+      "/images/artworks/unbroken-bloom/detail-1.jpg",
+      "/images/artworks/unbroken-bloom/detail-2.jpg",
+      "/images/artworks/unbroken-bloom/detail-3.jpg",
+      "/images/artworks/unbroken-bloom/interior-1.jpg",
+      "/images/artworks/unbroken-bloom/interior-2.jpg",
+      "/images/artworks/unbroken-bloom/interior-3.jpg",
+      "/images/artworks/unbroken-bloom/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2867,15 +2867,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Golden Vineyards of Vienna' by Iryna Barabash (2025) : Painting Oil on Canvas - 80x60cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Golden Vineyards of Vienna' by Iryna Barabash (2025) : Painting Oil on Canvas - 80x60cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/golden-vineyards-of-vienna/main.png",
+    "image": "/images/artworks/golden-vineyards-of-vienna/main.jpg",
     "images": [
-      "/images/artworks/golden-vineyards-of-vienna/detail-1.png",
-      "/images/artworks/golden-vineyards-of-vienna/detail-2.png",
-      "/images/artworks/golden-vineyards-of-vienna/detail-3.png",
-      "/images/artworks/golden-vineyards-of-vienna/interior-1.png",
-      "/images/artworks/golden-vineyards-of-vienna/interior-2.png",
-      "/images/artworks/golden-vineyards-of-vienna/interior-3.png",
-      "/images/artworks/golden-vineyards-of-vienna/main.png"
+      "/images/artworks/golden-vineyards-of-vienna/detail-1.jpg",
+      "/images/artworks/golden-vineyards-of-vienna/detail-2.jpg",
+      "/images/artworks/golden-vineyards-of-vienna/detail-3.jpg",
+      "/images/artworks/golden-vineyards-of-vienna/interior-1.jpg",
+      "/images/artworks/golden-vineyards-of-vienna/interior-2.jpg",
+      "/images/artworks/golden-vineyards-of-vienna/interior-3.jpg",
+      "/images/artworks/golden-vineyards-of-vienna/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2909,15 +2909,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Magnolia in bloom' by Iryna Barabash (2026) : Painting Oil on Canvas - 40x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Magnolia in bloom' by Iryna Barabash (2026) : Painting Oil on Canvas - 40x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/magnolia-in-bloom/main.png",
+    "image": "/images/artworks/magnolia-in-bloom/main.jpg",
     "images": [
-      "/images/artworks/magnolia-in-bloom/detail-1.png",
-      "/images/artworks/magnolia-in-bloom/detail-2.png",
-      "/images/artworks/magnolia-in-bloom/detail-3.png",
-      "/images/artworks/magnolia-in-bloom/interior-1.png",
-      "/images/artworks/magnolia-in-bloom/interior-2.png",
-      "/images/artworks/magnolia-in-bloom/interior-3.png",
-      "/images/artworks/magnolia-in-bloom/main.png"
+      "/images/artworks/magnolia-in-bloom/detail-1.jpg",
+      "/images/artworks/magnolia-in-bloom/detail-2.jpg",
+      "/images/artworks/magnolia-in-bloom/detail-3.jpg",
+      "/images/artworks/magnolia-in-bloom/interior-1.jpg",
+      "/images/artworks/magnolia-in-bloom/interior-2.jpg",
+      "/images/artworks/magnolia-in-bloom/interior-3.jpg",
+      "/images/artworks/magnolia-in-bloom/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -2951,15 +2951,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Green Companions' by Iryna Barabash (2026) : Painting Oil on Canvas - 60x80cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Green Companions' by Iryna Barabash (2026) : Painting Oil on Canvas - 60x80cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/green-companions/main.png",
+    "image": "/images/artworks/green-companions/main.jpg",
     "images": [
-      "/images/artworks/green-companions/detail-1.png",
-      "/images/artworks/green-companions/detail-2.png",
-      "/images/artworks/green-companions/detail-3.png",
-      "/images/artworks/green-companions/interior-1.png",
-      "/images/artworks/green-companions/interior-2.png",
-      "/images/artworks/green-companions/interior-3.png",
-      "/images/artworks/green-companions/main.png"
+      "/images/artworks/green-companions/detail-1.jpg",
+      "/images/artworks/green-companions/detail-2.jpg",
+      "/images/artworks/green-companions/detail-3.jpg",
+      "/images/artworks/green-companions/interior-1.jpg",
+      "/images/artworks/green-companions/interior-2.jpg",
+      "/images/artworks/green-companions/interior-3.jpg",
+      "/images/artworks/green-companions/main.jpg"
     ],
     "category": {
       "en": "Animal",
@@ -2993,15 +2993,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Peonies on the Balcony' by Iryna Barabash (2025) : Painting Oil on Canvas - 50x70cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Peonies on the Balcony' by Iryna Barabash (2025) : Painting Oil on Canvas - 50x70cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/peonies-on-the-balcony/main.png",
+    "image": "/images/artworks/peonies-on-the-balcony/main.jpg",
     "images": [
-      "/images/artworks/peonies-on-the-balcony/detail-1.png",
-      "/images/artworks/peonies-on-the-balcony/detail-2.png",
-      "/images/artworks/peonies-on-the-balcony/detail-3.png",
-      "/images/artworks/peonies-on-the-balcony/interior-1.png",
-      "/images/artworks/peonies-on-the-balcony/interior-2.png",
-      "/images/artworks/peonies-on-the-balcony/interior-3.png",
-      "/images/artworks/peonies-on-the-balcony/main.png"
+      "/images/artworks/peonies-on-the-balcony/detail-1.jpg",
+      "/images/artworks/peonies-on-the-balcony/detail-2.jpg",
+      "/images/artworks/peonies-on-the-balcony/detail-3.jpg",
+      "/images/artworks/peonies-on-the-balcony/interior-1.jpg",
+      "/images/artworks/peonies-on-the-balcony/interior-2.jpg",
+      "/images/artworks/peonies-on-the-balcony/interior-3.jpg",
+      "/images/artworks/peonies-on-the-balcony/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3035,15 +3035,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Fanningberg 1' by Iryna Barabash (2026) : Painting Oil on Canvas - 35x27.5cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Fanningberg 1' by Iryna Barabash (2026) : Painting Oil on Canvas - 35x27.5cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/fanningberg-1/main.png",
+    "image": "/images/artworks/fanningberg-1/main.jpg",
     "images": [
-      "/images/artworks/fanningberg-1/detail-1.png",
-      "/images/artworks/fanningberg-1/detail-2.png",
-      "/images/artworks/fanningberg-1/detail-3.png",
-      "/images/artworks/fanningberg-1/interior-1.png",
-      "/images/artworks/fanningberg-1/interior-2.png",
-      "/images/artworks/fanningberg-1/interior-3.png",
-      "/images/artworks/fanningberg-1/main.png"
+      "/images/artworks/fanningberg-1/detail-1.jpg",
+      "/images/artworks/fanningberg-1/detail-2.jpg",
+      "/images/artworks/fanningberg-1/detail-3.jpg",
+      "/images/artworks/fanningberg-1/interior-1.jpg",
+      "/images/artworks/fanningberg-1/interior-2.jpg",
+      "/images/artworks/fanningberg-1/interior-3.jpg",
+      "/images/artworks/fanningberg-1/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3077,15 +3077,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Under the Christmas Stars' by Iryna Barabash (2025) : Painting Oil on Canvas - 40x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Under the Christmas Stars' by Iryna Barabash (2025) : Painting Oil on Canvas - 40x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/under-the-christmas-stars/main.png",
+    "image": "/images/artworks/under-the-christmas-stars/main.jpg",
     "images": [
-      "/images/artworks/under-the-christmas-stars/detail-1.png",
-      "/images/artworks/under-the-christmas-stars/detail-2.png",
-      "/images/artworks/under-the-christmas-stars/detail-3.png",
-      "/images/artworks/under-the-christmas-stars/interior-1.png",
-      "/images/artworks/under-the-christmas-stars/interior-2.png",
-      "/images/artworks/under-the-christmas-stars/interior-3.png",
-      "/images/artworks/under-the-christmas-stars/main.png"
+      "/images/artworks/under-the-christmas-stars/detail-1.jpg",
+      "/images/artworks/under-the-christmas-stars/detail-2.jpg",
+      "/images/artworks/under-the-christmas-stars/detail-3.jpg",
+      "/images/artworks/under-the-christmas-stars/interior-1.jpg",
+      "/images/artworks/under-the-christmas-stars/interior-2.jpg",
+      "/images/artworks/under-the-christmas-stars/interior-3.jpg",
+      "/images/artworks/under-the-christmas-stars/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3119,15 +3119,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Clouds Over the Hills' by Iryna Barabash (2025) : Painting Oil on Cardboard - 30x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Clouds Over the Hills' by Iryna Barabash (2025) : Painting Oil on Cardboard - 30x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/clouds-over-the-hills/main.png",
+    "image": "/images/artworks/clouds-over-the-hills/main.jpg",
     "images": [
-      "/images/artworks/clouds-over-the-hills/detail-1.png",
-      "/images/artworks/clouds-over-the-hills/detail-2.png",
-      "/images/artworks/clouds-over-the-hills/detail-3.png",
-      "/images/artworks/clouds-over-the-hills/interior-1.png",
-      "/images/artworks/clouds-over-the-hills/interior-2.png",
-      "/images/artworks/clouds-over-the-hills/interior-3.png",
-      "/images/artworks/clouds-over-the-hills/main.png"
+      "/images/artworks/clouds-over-the-hills/detail-1.jpg",
+      "/images/artworks/clouds-over-the-hills/detail-2.jpg",
+      "/images/artworks/clouds-over-the-hills/detail-3.jpg",
+      "/images/artworks/clouds-over-the-hills/interior-1.jpg",
+      "/images/artworks/clouds-over-the-hills/interior-2.jpg",
+      "/images/artworks/clouds-over-the-hills/interior-3.jpg",
+      "/images/artworks/clouds-over-the-hills/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3161,15 +3161,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'The Wave' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'The Wave' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/the-wave/main.png",
+    "image": "/images/artworks/the-wave/main.jpg",
     "images": [
-      "/images/artworks/the-wave/detail-1.png",
-      "/images/artworks/the-wave/detail-2.png",
-      "/images/artworks/the-wave/detail-3.png",
-      "/images/artworks/the-wave/interior-1.png",
-      "/images/artworks/the-wave/interior-2.png",
-      "/images/artworks/the-wave/interior-3.png",
-      "/images/artworks/the-wave/main.png"
+      "/images/artworks/the-wave/detail-1.jpg",
+      "/images/artworks/the-wave/detail-2.jpg",
+      "/images/artworks/the-wave/detail-3.jpg",
+      "/images/artworks/the-wave/interior-1.jpg",
+      "/images/artworks/the-wave/interior-2.jpg",
+      "/images/artworks/the-wave/interior-3.jpg",
+      "/images/artworks/the-wave/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3203,15 +3203,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Spring in Blossom' by Iryna Barabash (2025) : Painting Oil on Canvas - 70x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Spring in Blossom' by Iryna Barabash (2025) : Painting Oil on Canvas - 70x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/spring-in-blossom/main.png",
+    "image": "/images/artworks/spring-in-blossom/main.jpg",
     "images": [
-      "/images/artworks/spring-in-blossom/detail-1.png",
-      "/images/artworks/spring-in-blossom/detail-2.png",
-      "/images/artworks/spring-in-blossom/detail-3.png",
-      "/images/artworks/spring-in-blossom/interior-1.png",
-      "/images/artworks/spring-in-blossom/interior-2.png",
-      "/images/artworks/spring-in-blossom/interior-3.png",
-      "/images/artworks/spring-in-blossom/main.png"
+      "/images/artworks/spring-in-blossom/detail-1.jpg",
+      "/images/artworks/spring-in-blossom/detail-2.jpg",
+      "/images/artworks/spring-in-blossom/detail-3.jpg",
+      "/images/artworks/spring-in-blossom/interior-1.jpg",
+      "/images/artworks/spring-in-blossom/interior-2.jpg",
+      "/images/artworks/spring-in-blossom/interior-3.jpg",
+      "/images/artworks/spring-in-blossom/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3245,15 +3245,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Quiet Morning in the Harbor' by Iryna Barabash (2025) : Painting Oil on Canvas - 60x70cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Quiet Morning in the Harbor' by Iryna Barabash (2025) : Painting Oil on Canvas - 60x70cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/quiet-morning-in-the-harbor/main.png",
+    "image": "/images/artworks/quiet-morning-in-the-harbor/main.jpg",
     "images": [
-      "/images/artworks/quiet-morning-in-the-harbor/detail-1.png",
-      "/images/artworks/quiet-morning-in-the-harbor/detail-2.png",
-      "/images/artworks/quiet-morning-in-the-harbor/detail-3.png",
-      "/images/artworks/quiet-morning-in-the-harbor/interior-1.png",
-      "/images/artworks/quiet-morning-in-the-harbor/interior-2.png",
-      "/images/artworks/quiet-morning-in-the-harbor/interior-3.png",
-      "/images/artworks/quiet-morning-in-the-harbor/main.png"
+      "/images/artworks/quiet-morning-in-the-harbor/detail-1.jpg",
+      "/images/artworks/quiet-morning-in-the-harbor/detail-2.jpg",
+      "/images/artworks/quiet-morning-in-the-harbor/detail-3.jpg",
+      "/images/artworks/quiet-morning-in-the-harbor/interior-1.jpg",
+      "/images/artworks/quiet-morning-in-the-harbor/interior-2.jpg",
+      "/images/artworks/quiet-morning-in-the-harbor/interior-3.jpg",
+      "/images/artworks/quiet-morning-in-the-harbor/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3287,15 +3287,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Never Againe' by Iryna Barabash (2025) : Painting Oil on Canvas - 25x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Never Againe' by Iryna Barabash (2025) : Painting Oil on Canvas - 25x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/never-againe/main.png",
+    "image": "/images/artworks/never-againe/main.jpg",
     "images": [
-      "/images/artworks/never-againe/detail-1.png",
-      "/images/artworks/never-againe/detail-2.png",
-      "/images/artworks/never-againe/detail-3.png",
-      "/images/artworks/never-againe/interior-1.png",
-      "/images/artworks/never-againe/interior-2.png",
-      "/images/artworks/never-againe/interior-3.png",
-      "/images/artworks/never-againe/main.png"
+      "/images/artworks/never-againe/detail-1.jpg",
+      "/images/artworks/never-againe/detail-2.jpg",
+      "/images/artworks/never-againe/detail-3.jpg",
+      "/images/artworks/never-againe/interior-1.jpg",
+      "/images/artworks/never-againe/interior-2.jpg",
+      "/images/artworks/never-againe/interior-3.jpg",
+      "/images/artworks/never-againe/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3329,15 +3329,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Evening Light at Cristmas' by Iryna Barabash (2025) : Painting Oil on Canvas - 40x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Evening Light at Cristmas' by Iryna Barabash (2025) : Painting Oil on Canvas - 40x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/evening-light-at-cristmas/main.png",
+    "image": "/images/artworks/evening-light-at-cristmas/main.jpg",
     "images": [
-      "/images/artworks/evening-light-at-cristmas/detail-1.png",
-      "/images/artworks/evening-light-at-cristmas/detail-2.png",
-      "/images/artworks/evening-light-at-cristmas/detail-3.png",
-      "/images/artworks/evening-light-at-cristmas/interior-1.png",
-      "/images/artworks/evening-light-at-cristmas/interior-2.png",
-      "/images/artworks/evening-light-at-cristmas/interior-3.png",
-      "/images/artworks/evening-light-at-cristmas/main.png"
+      "/images/artworks/evening-light-at-cristmas/detail-1.jpg",
+      "/images/artworks/evening-light-at-cristmas/detail-2.jpg",
+      "/images/artworks/evening-light-at-cristmas/detail-3.jpg",
+      "/images/artworks/evening-light-at-cristmas/detail-4.jpg",
+      "/images/artworks/evening-light-at-cristmas/interior-1.jpg",
+      "/images/artworks/evening-light-at-cristmas/interior-2.jpg",
+      "/images/artworks/evening-light-at-cristmas/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3371,15 +3371,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Stormlight Over the Mountain Path' by Iryna Barabash (2025) : Painting Oil on Canvas - 60x80cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Stormlight Over the Mountain Path' by Iryna Barabash (2025) : Painting Oil on Canvas - 60x80cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/stormlight-over-the-mountain-path/main.png",
+    "image": "/images/artworks/stormlight-over-the-mountain-path/main.jpg",
     "images": [
-      "/images/artworks/stormlight-over-the-mountain-path/detail-1.png",
-      "/images/artworks/stormlight-over-the-mountain-path/detail-2.png",
-      "/images/artworks/stormlight-over-the-mountain-path/detail-3.png",
-      "/images/artworks/stormlight-over-the-mountain-path/interior-1.png",
-      "/images/artworks/stormlight-over-the-mountain-path/interior-2.png",
-      "/images/artworks/stormlight-over-the-mountain-path/interior-3.png",
-      "/images/artworks/stormlight-over-the-mountain-path/main.png"
+      "/images/artworks/stormlight-over-the-mountain-path/detail-1.jpg",
+      "/images/artworks/stormlight-over-the-mountain-path/detail-2.jpg",
+      "/images/artworks/stormlight-over-the-mountain-path/detail-3.jpg",
+      "/images/artworks/stormlight-over-the-mountain-path/interior-1.jpg",
+      "/images/artworks/stormlight-over-the-mountain-path/interior-2.jpg",
+      "/images/artworks/stormlight-over-the-mountain-path/interior-3.jpg",
+      "/images/artworks/stormlight-over-the-mountain-path/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3413,15 +3413,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Two Tails by the Lake' by Iryna Barabash (2025) : Painting Oil on Canvas - 70x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Two Tails by the Lake' by Iryna Barabash (2025) : Painting Oil on Canvas - 70x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/two-tails-by-the-lake/main.png",
+    "image": "/images/artworks/two-tails-by-the-lake/main.jpg",
     "images": [
-      "/images/artworks/two-tails-by-the-lake/detail-1.png",
-      "/images/artworks/two-tails-by-the-lake/detail-2.png",
-      "/images/artworks/two-tails-by-the-lake/detail-3.png",
-      "/images/artworks/two-tails-by-the-lake/interior-1.png",
-      "/images/artworks/two-tails-by-the-lake/interior-2.png",
-      "/images/artworks/two-tails-by-the-lake/interior-3.png",
-      "/images/artworks/two-tails-by-the-lake/main.png"
+      "/images/artworks/two-tails-by-the-lake/detail-1.jpg",
+      "/images/artworks/two-tails-by-the-lake/detail-2.jpg",
+      "/images/artworks/two-tails-by-the-lake/detail-3.jpg",
+      "/images/artworks/two-tails-by-the-lake/interior-1.jpg",
+      "/images/artworks/two-tails-by-the-lake/interior-2.jpg",
+      "/images/artworks/two-tails-by-the-lake/interior-3.jpg",
+      "/images/artworks/two-tails-by-the-lake/main.jpg"
     ],
     "category": {
       "en": "Animal",
@@ -3455,15 +3455,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Red Amaryllis' by Iryna Barabash (2025) : Painting Gouache on Paper - 31x23cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Red Amaryllis' by Iryna Barabash (2025) : Painting Gouache on Paper - 31x23cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/red-amaryllis/main.png",
+    "image": "/images/artworks/red-amaryllis/main.jpg",
     "images": [
-      "/images/artworks/red-amaryllis/detail-1.png",
-      "/images/artworks/red-amaryllis/detail-2.png",
-      "/images/artworks/red-amaryllis/detail-3.png",
-      "/images/artworks/red-amaryllis/interior-1.png",
-      "/images/artworks/red-amaryllis/interior-2.png",
-      "/images/artworks/red-amaryllis/interior-3.png",
-      "/images/artworks/red-amaryllis/main.png"
+      "/images/artworks/red-amaryllis/detail-1.jpg",
+      "/images/artworks/red-amaryllis/detail-2.jpg",
+      "/images/artworks/red-amaryllis/detail-3.jpg",
+      "/images/artworks/red-amaryllis/interior-1.jpg",
+      "/images/artworks/red-amaryllis/interior-2.jpg",
+      "/images/artworks/red-amaryllis/interior-3.jpg",
+      "/images/artworks/red-amaryllis/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3497,15 +3497,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'The whispering Emotions' by Iryna Barabash (2022) : Painting Acrylic on Canvas - 50x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'The whispering Emotions' by Iryna Barabash (2022) : Painting Acrylic on Canvas - 50x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/the-whispering-emotions/main.png",
+    "image": "/images/artworks/the-whispering-emotions/main.jpg",
     "images": [
-      "/images/artworks/the-whispering-emotions/detail-1.png",
-      "/images/artworks/the-whispering-emotions/detail-2.png",
-      "/images/artworks/the-whispering-emotions/detail-3.png",
-      "/images/artworks/the-whispering-emotions/interior-1.png",
-      "/images/artworks/the-whispering-emotions/interior-2.png",
-      "/images/artworks/the-whispering-emotions/interior-3.png",
-      "/images/artworks/the-whispering-emotions/main.png"
+      "/images/artworks/the-whispering-emotions/detail-1.jpg",
+      "/images/artworks/the-whispering-emotions/detail-2.jpg",
+      "/images/artworks/the-whispering-emotions/detail-3.jpg",
+      "/images/artworks/the-whispering-emotions/interior-1.jpg",
+      "/images/artworks/the-whispering-emotions/interior-2.jpg",
+      "/images/artworks/the-whispering-emotions/interior-3.jpg",
+      "/images/artworks/the-whispering-emotions/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3539,15 +3539,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Gift of the Moment' by Iryna Barabash (2025) : Painting Oil on Canvas - 40x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Gift of the Moment' by Iryna Barabash (2025) : Painting Oil on Canvas - 40x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/gift-of-the-moment/main.png",
+    "image": "/images/artworks/gift-of-the-moment/main.jpg",
     "images": [
-      "/images/artworks/gift-of-the-moment/detail-1.png",
-      "/images/artworks/gift-of-the-moment/detail-2.png",
-      "/images/artworks/gift-of-the-moment/detail-3.png",
-      "/images/artworks/gift-of-the-moment/interior-1.png",
-      "/images/artworks/gift-of-the-moment/interior-2.png",
-      "/images/artworks/gift-of-the-moment/interior-3.png",
-      "/images/artworks/gift-of-the-moment/main.png"
+      "/images/artworks/gift-of-the-moment/detail-1.jpg",
+      "/images/artworks/gift-of-the-moment/detail-2.jpg",
+      "/images/artworks/gift-of-the-moment/detail-3.jpg",
+      "/images/artworks/gift-of-the-moment/interior-1.jpg",
+      "/images/artworks/gift-of-the-moment/interior-2.jpg",
+      "/images/artworks/gift-of-the-moment/interior-3.jpg",
+      "/images/artworks/gift-of-the-moment/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3581,15 +3581,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Where the Water Waits' by Iryna Barabash (2024) : Painting Oil on Canvas - 30x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Where the Water Waits' by Iryna Barabash (2024) : Painting Oil on Canvas - 30x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/where-the-water-waits/main.png",
+    "image": "/images/artworks/where-the-water-waits/main.jpg",
     "images": [
-      "/images/artworks/where-the-water-waits/detail-1.png",
-      "/images/artworks/where-the-water-waits/detail-2.png",
-      "/images/artworks/where-the-water-waits/detail-3.png",
-      "/images/artworks/where-the-water-waits/interior-1.png",
-      "/images/artworks/where-the-water-waits/interior-2.png",
-      "/images/artworks/where-the-water-waits/interior-3.png",
-      "/images/artworks/where-the-water-waits/main.png"
+      "/images/artworks/where-the-water-waits/detail-1.jpg",
+      "/images/artworks/where-the-water-waits/detail-2.jpg",
+      "/images/artworks/where-the-water-waits/detail-3.jpg",
+      "/images/artworks/where-the-water-waits/interior-1.jpg",
+      "/images/artworks/where-the-water-waits/interior-2.jpg",
+      "/images/artworks/where-the-water-waits/interior-3.jpg",
+      "/images/artworks/where-the-water-waits/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3623,15 +3623,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'A Mother&#039;s Watch' by Iryna Barabash (2025) : Painting Oil on Canvas - 50x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'A Mother&#039;s Watch' by Iryna Barabash (2025) : Painting Oil on Canvas - 50x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/a-mothers-watch/main.png",
+    "image": "/images/artworks/a-mothers-watch/main.jpg",
     "images": [
-      "/images/artworks/a-mothers-watch/detail-1.png",
-      "/images/artworks/a-mothers-watch/detail-2.png",
-      "/images/artworks/a-mothers-watch/detail-3.png",
-      "/images/artworks/a-mothers-watch/interior-1.png",
-      "/images/artworks/a-mothers-watch/interior-2.png",
-      "/images/artworks/a-mothers-watch/interior-3.png",
-      "/images/artworks/a-mothers-watch/main.png"
+      "/images/artworks/a-mothers-watch/detail-1.jpg",
+      "/images/artworks/a-mothers-watch/detail-2.jpg",
+      "/images/artworks/a-mothers-watch/detail-3.jpg",
+      "/images/artworks/a-mothers-watch/interior-1.jpg",
+      "/images/artworks/a-mothers-watch/interior-2.jpg",
+      "/images/artworks/a-mothers-watch/interior-3.jpg",
+      "/images/artworks/a-mothers-watch/main.jpg"
     ],
     "category": {
       "en": "Animal",
@@ -3665,15 +3665,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Drift in Grey Light' by Iryna Barabash (2025) : Painting Gouache on Paper - 30x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Drift in Grey Light' by Iryna Barabash (2025) : Painting Gouache on Paper - 30x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/drift-in-grey-light/main.png",
+    "image": "/images/artworks/drift-in-grey-light/main.jpg",
     "images": [
-      "/images/artworks/drift-in-grey-light/detail-1.png",
-      "/images/artworks/drift-in-grey-light/detail-2.png",
-      "/images/artworks/drift-in-grey-light/detail-3.png",
-      "/images/artworks/drift-in-grey-light/interior-1.png",
-      "/images/artworks/drift-in-grey-light/interior-2.png",
-      "/images/artworks/drift-in-grey-light/interior-3.png",
-      "/images/artworks/drift-in-grey-light/main.png"
+      "/images/artworks/drift-in-grey-light/detail-1.jpg",
+      "/images/artworks/drift-in-grey-light/detail-2.jpg",
+      "/images/artworks/drift-in-grey-light/detail-3.jpg",
+      "/images/artworks/drift-in-grey-light/interior-1.jpg",
+      "/images/artworks/drift-in-grey-light/interior-2.jpg",
+      "/images/artworks/drift-in-grey-light/interior-3.jpg",
+      "/images/artworks/drift-in-grey-light/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3707,15 +3707,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Bay Sketch before the Storm' by Iryna Barabash (2025) : Painting Gouache on Paper - 30x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Bay Sketch before the Storm' by Iryna Barabash (2025) : Painting Gouache on Paper - 30x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/bay-sketch-before-the-storm/main.png",
+    "image": "/images/artworks/bay-sketch-before-the-storm/main.jpg",
     "images": [
-      "/images/artworks/bay-sketch-before-the-storm/detail-1.png",
-      "/images/artworks/bay-sketch-before-the-storm/detail-2.png",
-      "/images/artworks/bay-sketch-before-the-storm/detail-3.png",
-      "/images/artworks/bay-sketch-before-the-storm/interior-1.png",
-      "/images/artworks/bay-sketch-before-the-storm/interior-2.png",
-      "/images/artworks/bay-sketch-before-the-storm/interior-3.png",
-      "/images/artworks/bay-sketch-before-the-storm/main.png"
+      "/images/artworks/bay-sketch-before-the-storm/detail-1.jpg",
+      "/images/artworks/bay-sketch-before-the-storm/detail-2.jpg",
+      "/images/artworks/bay-sketch-before-the-storm/detail-3.jpg",
+      "/images/artworks/bay-sketch-before-the-storm/interior-1.jpg",
+      "/images/artworks/bay-sketch-before-the-storm/interior-2.jpg",
+      "/images/artworks/bay-sketch-before-the-storm/interior-3.jpg",
+      "/images/artworks/bay-sketch-before-the-storm/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3749,50 +3749,16 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Pines' by Iryna Barabash (2025) : Painting Gouache on Paper - 23x31cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Pines' by Iryna Barabash (2025) : Painting Gouache on Paper - 23x31cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/pines/main.png",
+    "image": "/images/artworks/pines/main.jpg",
     "images": [
-      "/images/artworks/pines/detail-1.png",
-      "/images/artworks/pines/detail-2.png",
-      "/images/artworks/pines/detail-3.png",
-      "/images/artworks/pines/interior-1.png",
-      "/images/artworks/pines/interior-2.png",
-      "/images/artworks/pines/interior-3.png",
-      "/images/artworks/pines/main.png"
+      "/images/artworks/pines/detail-1.jpg",
+      "/images/artworks/pines/detail-2.jpg",
+      "/images/artworks/pines/detail-3.jpg",
+      "/images/artworks/pines/interior-1.jpg",
+      "/images/artworks/pines/interior-2.jpg",
+      "/images/artworks/pines/interior-3.jpg",
+      "/images/artworks/pines/main.jpg"
     ],
-    "category": {
-      "en": "Landscape",
-      "ru": "Пейзаж",
-      "de": "Landscape",
-      "uk": "Landscape"
-    },
-    "price": "EUR 0"
-  },
-  {
-    "id": "sea-light-and-silence",
-    "title": {
-      "en": "Sea light and silence",
-      "ru": "Sea light and silence",
-      "de": "Sea light and silence",
-      "uk": "Sea light and silence"
-    },
-    "medium": {
-      "en": "Oil on canvas",
-      "ru": "Масло, холст",
-      "de": "Öl auf Leinwand",
-      "uk": "Олія, полотно"
-    },
-    "year": 2024,
-    "width": 30,
-    "height": 24,
-    "unit": "cm",
-    "description": {
-      "en": "✅ Buy the Artwork 'Sea light and silence' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
-      "ru": "✅ Buy the Artwork 'Sea light and silence' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
-      "de": "✅ Buy the Artwork 'Sea light and silence' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
-      "uk": "✅ Buy the Artwork 'Sea light and silence' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
-    },
-    "image": "",
-    "images": [],
     "category": {
       "en": "Landscape",
       "ru": "Пейзаж",
@@ -3825,15 +3791,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Echo of the Shore' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Echo of the Shore' by Iryna Barabash (2026) : Painting Oil on Canvas - 24x30cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/echo-of-the-shore/main.png",
+    "image": "/images/artworks/echo-of-the-shore/main.jpg",
     "images": [
-      "/images/artworks/echo-of-the-shore/detail-1.png",
-      "/images/artworks/echo-of-the-shore/detail-2.png",
-      "/images/artworks/echo-of-the-shore/detail-3.png",
-      "/images/artworks/echo-of-the-shore/interior-1.png",
-      "/images/artworks/echo-of-the-shore/interior-2.png",
-      "/images/artworks/echo-of-the-shore/interior-3.png",
-      "/images/artworks/echo-of-the-shore/main.png"
+      "/images/artworks/echo-of-the-shore/detail-1.jpg",
+      "/images/artworks/echo-of-the-shore/detail-2.jpg",
+      "/images/artworks/echo-of-the-shore/detail-3.jpg",
+      "/images/artworks/echo-of-the-shore/interior-1.jpg",
+      "/images/artworks/echo-of-the-shore/interior-2.jpg",
+      "/images/artworks/echo-of-the-shore/interior-3.jpg",
+      "/images/artworks/echo-of-the-shore/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3867,15 +3833,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Spring Dance of the Tree' by Iryna Barabash (2025) : Painting Oil on Canvas - 60x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Spring Dance of the Tree' by Iryna Barabash (2025) : Painting Oil on Canvas - 60x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/spring-dance-of-the-tree/main.png",
+    "image": "/images/artworks/spring-dance-of-the-tree/main.jpg",
     "images": [
-      "/images/artworks/spring-dance-of-the-tree/detail-1.png",
-      "/images/artworks/spring-dance-of-the-tree/detail-2.png",
-      "/images/artworks/spring-dance-of-the-tree/detail-3.png",
-      "/images/artworks/spring-dance-of-the-tree/interior-1.png",
-      "/images/artworks/spring-dance-of-the-tree/interior-2.png",
-      "/images/artworks/spring-dance-of-the-tree/interior-3.png",
-      "/images/artworks/spring-dance-of-the-tree/main.png"
+      "/images/artworks/spring-dance-of-the-tree/detail-1.jpg",
+      "/images/artworks/spring-dance-of-the-tree/detail-2.jpg",
+      "/images/artworks/spring-dance-of-the-tree/detail-3.jpg",
+      "/images/artworks/spring-dance-of-the-tree/interior-1.jpg",
+      "/images/artworks/spring-dance-of-the-tree/interior-2.jpg",
+      "/images/artworks/spring-dance-of-the-tree/interior-3.jpg",
+      "/images/artworks/spring-dance-of-the-tree/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3909,15 +3875,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Blossoms of Hope' by Iryna Barabash (2022) : Painting Acrylic on Canvas - 70x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Blossoms of Hope' by Iryna Barabash (2022) : Painting Acrylic on Canvas - 70x50cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/blossoms-of-hope/main.png",
+    "image": "/images/artworks/blossoms-of-hope/main.jpg",
     "images": [
-      "/images/artworks/blossoms-of-hope/detail-1.png",
-      "/images/artworks/blossoms-of-hope/detail-2.png",
-      "/images/artworks/blossoms-of-hope/detail-3.png",
-      "/images/artworks/blossoms-of-hope/interior-1.png",
-      "/images/artworks/blossoms-of-hope/interior-2.png",
-      "/images/artworks/blossoms-of-hope/interior-3.png",
-      "/images/artworks/blossoms-of-hope/main.png"
+      "/images/artworks/blossoms-of-hope/detail-1.jpg",
+      "/images/artworks/blossoms-of-hope/detail-2.jpg",
+      "/images/artworks/blossoms-of-hope/detail-3.jpg",
+      "/images/artworks/blossoms-of-hope/interior-1.jpg",
+      "/images/artworks/blossoms-of-hope/interior-2.jpg",
+      "/images/artworks/blossoms-of-hope/interior-3.jpg",
+      "/images/artworks/blossoms-of-hope/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3951,15 +3917,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'At the erdge of the world' by Iryna Barabash (2022) : Painting Acrylic on Canvas - 58x58cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'At the erdge of the world' by Iryna Barabash (2022) : Painting Acrylic on Canvas - 58x58cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/at-the-erdge-of-the-world/main.png",
+    "image": "/images/artworks/at-the-erdge-of-the-world/main.jpg",
     "images": [
-      "/images/artworks/at-the-erdge-of-the-world/detail-1.png",
-      "/images/artworks/at-the-erdge-of-the-world/detail-2.png",
-      "/images/artworks/at-the-erdge-of-the-world/detail-3.png",
-      "/images/artworks/at-the-erdge-of-the-world/interior-1.png",
-      "/images/artworks/at-the-erdge-of-the-world/interior-2.png",
-      "/images/artworks/at-the-erdge-of-the-world/interior-3.png",
-      "/images/artworks/at-the-erdge-of-the-world/main.png"
+      "/images/artworks/at-the-erdge-of-the-world/detail-1.jpg",
+      "/images/artworks/at-the-erdge-of-the-world/detail-2.jpg",
+      "/images/artworks/at-the-erdge-of-the-world/detail-3.jpg",
+      "/images/artworks/at-the-erdge-of-the-world/interior-1.jpg",
+      "/images/artworks/at-the-erdge-of-the-world/interior-2.jpg",
+      "/images/artworks/at-the-erdge-of-the-world/interior-3.jpg",
+      "/images/artworks/at-the-erdge-of-the-world/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -3993,15 +3959,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Waiting for the Cristmas' by Iryna Barabash (2024) : Painting Oil on Canvas - 80x60cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Waiting for the Cristmas' by Iryna Barabash (2024) : Painting Oil on Canvas - 80x60cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/waiting-for-the-cristmas/main.png",
+    "image": "/images/artworks/waiting-for-the-cristmas/main.jpg",
     "images": [
-      "/images/artworks/waiting-for-the-cristmas/detail-1.png",
-      "/images/artworks/waiting-for-the-cristmas/detail-2.png",
-      "/images/artworks/waiting-for-the-cristmas/detail-3.png",
-      "/images/artworks/waiting-for-the-cristmas/interior-1.png",
-      "/images/artworks/waiting-for-the-cristmas/interior-2.png",
-      "/images/artworks/waiting-for-the-cristmas/interior-3.png",
-      "/images/artworks/waiting-for-the-cristmas/main.png"
+      "/images/artworks/waiting-for-the-cristmas/detail-1.jpg",
+      "/images/artworks/waiting-for-the-cristmas/detail-2.jpg",
+      "/images/artworks/waiting-for-the-cristmas/detail-3.jpg",
+      "/images/artworks/waiting-for-the-cristmas/interior-1.jpg",
+      "/images/artworks/waiting-for-the-cristmas/interior-2.jpg",
+      "/images/artworks/waiting-for-the-cristmas/interior-3.jpg",
+      "/images/artworks/waiting-for-the-cristmas/main.jpg"
     ],
     "category": {
       "en": "Landscape",
@@ -4035,15 +4001,15 @@ export const artworks: Artwork[] = [
       "de": "✅ Buy the Artwork 'Sunlit Amaryllis' by Iryna Barabash (2025) : Painting Oil on Canvas - 60x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns",
       "uk": "✅ Buy the Artwork 'Sunlit Amaryllis' by Iryna Barabash (2025) : Painting Oil on Canvas - 60x40cm ➽ Worldwide Shipping ➽ Secure Payment ➽ Free Returns"
     },
-    "image": "/images/artworks/sunlit-amaryllis/main.png",
+    "image": "/images/artworks/sunlit-amaryllis/main.jpg",
     "images": [
-      "/images/artworks/sunlit-amaryllis/detail-1.png",
-      "/images/artworks/sunlit-amaryllis/detail-2.png",
-      "/images/artworks/sunlit-amaryllis/detail-3.png",
-      "/images/artworks/sunlit-amaryllis/interior-1.png",
-      "/images/artworks/sunlit-amaryllis/interior-2.png",
-      "/images/artworks/sunlit-amaryllis/interior-3.png",
-      "/images/artworks/sunlit-amaryllis/main.png"
+      "/images/artworks/sunlit-amaryllis/detail-1.jpg",
+      "/images/artworks/sunlit-amaryllis/detail-2.jpg",
+      "/images/artworks/sunlit-amaryllis/detail-3.jpg",
+      "/images/artworks/sunlit-amaryllis/interior-1.jpg",
+      "/images/artworks/sunlit-amaryllis/interior-2.jpg",
+      "/images/artworks/sunlit-amaryllis/interior-3.jpg",
+      "/images/artworks/sunlit-amaryllis/main.jpg"
     ],
     "category": {
       "en": "Landscape",

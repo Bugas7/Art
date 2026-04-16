@@ -210,7 +210,7 @@ export default function RoomPreview({ image, title, dictionary, artworkWidth = 6
     <>
       <button
         onClick={() => setIsOpen(true)}
-        className="mt-6 flex items-center gap-3 rounded-full border border-stone-200 bg-white px-8 py-3.5 text-xs font-bold uppercase tracking-[0.25em] text-stone-600 transition-all hover:bg-stone-800 hover:text-white hover:border-stone-800 shadow-sm"
+        className="flex w-full items-center justify-center gap-3 rounded-full border border-stone-200 bg-white px-8 py-4 text-[10px] font-bold uppercase tracking-[0.2em] text-stone-600 transition-all hover:bg-stone-50 active:scale-[0.98] shadow-sm"
       >
         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.2} stroke="currentColor" className="h-4 w-4">
           <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 21h19.5m-18-18v14.25A2.25 2.25 0 0 0 3.75 19.5h16.5a2.25 2.25 0 0 0 2.25-2.25V4.875c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125Z" />
@@ -219,9 +219,9 @@ export default function RoomPreview({ image, title, dictionary, artworkWidth = 6
       </button>
 
       {isOpen && (
-        <div className="fixed inset-0 z-[100] flex flex-col bg-white animate-in fade-in duration-500 overflow-hidden">
-          <div className="flex items-center justify-between border-b border-stone-100 px-8 py-5 bg-white">
-            <h2 className="font-serif text-xl font-light text-stone-900 uppercase tracking-[0.15em]">{t.title}</h2>
+        <div className="fixed inset-0 z-[100] flex flex-col bg-white animate-in fade-in duration-300 overflow-hidden">
+          <div className="flex items-center justify-between border-b border-stone-100 px-4 py-4 lg:px-8 lg:py-5 bg-white">
+            <h2 className="font-serif text-lg lg:text-xl font-light text-stone-900 uppercase tracking-[0.15em]">{t.title}</h2>
             <button onClick={() => setIsOpen(false)} className="rounded-full p-2 text-stone-400 hover:bg-stone-50 hover:text-stone-900 transition-all">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="h-7 w-7">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 18 18 6M6 6l12 12" />
@@ -230,8 +230,8 @@ export default function RoomPreview({ image, title, dictionary, artworkWidth = 6
           </div>
 
           <div className="flex flex-1 flex-col lg:flex-row min-h-0 bg-stone-50">
-            <div className="relative flex-1 bg-[#fbfbfb] overflow-hidden flex items-center justify-center p-6 lg:p-14">
-               <div ref={containerRef} className="relative w-full h-full max-w-6xl aspect-video rounded-sm overflow-hidden shadow-[0_20px_100px_rgba(0,0,0,0.12)] border border-white select-none bg-stone-100">
+            <div className="relative flex-[1.5] bg-[#fbfbfb] overflow-hidden flex items-center justify-center p-3 lg:p-14 min-h-[300px]">
+               <div ref={containerRef} className="relative w-full aspect-video rounded-sm overflow-hidden shadow-[0_20px_100px_rgba(0,0,0,0.12)] border border-white select-none bg-stone-100">
                   <Image src={selectedInterior.path} alt="Interior" fill className="object-cover pointer-events-none" priority />
                   
                   <div 
@@ -250,7 +250,7 @@ export default function RoomPreview({ image, title, dictionary, artworkWidth = 6
                          style={{ padding: `${(frameWidthPercent / totalWidthPercent) * 100}%` }}
                        >
                           {renderFrameBG()}
-
+ 
                           <div className={`relative w-full shadow-[inset_0_0_15px_rgba(0,0,0,0.3)] bg-white overflow-hidden`}>
                               <img src={image} alt={title} className="block w-full h-auto pointer-events-none" />
                               <div className="absolute inset-0 pointer-events-none bg-gradient-to-tr from-white/10 via-transparent to-black/20 mix-blend-overlay opacity-30" />
@@ -260,7 +260,7 @@ export default function RoomPreview({ image, title, dictionary, artworkWidth = 6
                </div>
             </div>
 
-            <div className="w-full border-t border-stone-200 bg-white p-8 lg:w-[450px] lg:border-l lg:border-t-0 flex flex-col overflow-y-auto">
+            <div className="w-full border-t border-stone-200 bg-white p-6 lg:w-[450px] lg:border-l lg:border-t-0 flex flex-col overflow-y-auto max-h-[50vh] lg:max-h-none">
               <div className="space-y-12">
                 <div className="space-y-6">
                    <div className="flex gap-1 p-1 bg-stone-50 rounded-2xl border border-stone-100">

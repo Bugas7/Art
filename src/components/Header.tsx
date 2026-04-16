@@ -12,34 +12,28 @@ export default function Header({ locale }: { locale: Locale }) {
   }[locale];
 
   return (
-    <header className="sticky top-0 z-50 border-b border-stone-200 bg-white/80 backdrop-blur-md">
-      <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-6">
-        <Link href={`/${locale}`} className="text-2xl font-light tracking-wide text-stone-800 transition-opacity hover:opacity-70">
-          {artist.name[locale]}
-        </Link>
-        <div className="flex items-center gap-12">
-          <nav className="hidden gap-8 text-sm uppercase tracking-widest text-stone-500 md:flex">
-            <Link
-              href={`/${locale}`}
-              className="transition-colors hover:text-stone-800"
-            >
-              {dictionary.gallery}
-            </Link>
-            <Link
-              href={`/${locale}/about`}
-              className="transition-colors hover:text-stone-800"
-            >
-              {dictionary.about}
-            </Link>
-            <Link
-              href={`/${locale}/contact`}
-              className="transition-colors hover:text-stone-800"
-            >
-              {dictionary.contact}
-            </Link>
-          </nav>
+    <header className="sticky top-0 z-50 border-b border-stone-100 bg-white/80 backdrop-blur-md">
+      <div className="mx-auto max-w-7xl px-4 py-4 md:px-6 md:py-6">
+        {/* Top Row: Logo + Lang Switcher */}
+        <div className="flex items-center justify-between">
+          <Link href={`/${locale}`} className="text-xl font-light tracking-wide text-stone-800 transition-opacity hover:opacity-70 md:text-2xl">
+            {artist.name[locale]}
+          </Link>
           <LanguageSwitcher currentLocale={locale} />
         </div>
+        
+        {/* Bottom Row (Mobile) / Integrated Row (Desktop) */}
+        <nav className="mt-4 flex justify-center gap-6 border-t border-stone-50 pt-4 text-[10px] uppercase tracking-[0.2em] text-stone-400 md:mt-0 md:border-none md:pt-0 md:text-sm md:text-stone-500 md:absolute md:left-1/2 md:-translate-x-1/2 md:top-1/2 md:-translate-y-1/2">
+          <Link href={`/${locale}`} className="transition-colors hover:text-stone-800">
+            {dictionary.gallery}
+          </Link>
+          <Link href={`/${locale}/about`} className="transition-colors hover:text-stone-800">
+            {dictionary.about}
+          </Link>
+          <Link href={`/${locale}/contact`} className="transition-colors hover:text-stone-800">
+            {dictionary.contact}
+          </Link>
+        </nav>
       </div>
     </header>
   );
